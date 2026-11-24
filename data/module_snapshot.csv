@@ -1,0 +1,1268 @@
+﻿Institution,Module code,Module name,Year level,Semester (0/1/2),Distance Option?,NQF level,Credits,Contents,Outcomes,Mathematical portion,Applied portion,Programming portion,Software,Module Category ,Discipline
+UFS,STSA1624,Introductory Statistics,1,2,No,6,16,"Introduction to Statistics II
+1.	Descriptive biometry
+2.	Probability models
+3.	Biometrical inference
+4.	Linear regression and correlation. 
+5.	Contingency tables
+6.	Analysis of variance.",,,1,,,Applied,Probability Theory
+UFS,STSA2616,Multiple Regression Analysis and Time Series Analysis,2,1,No,6,24,"Simple linear regression and correlation; Matrix notation and matrix calculations; Multiple regression, multiple coefficient of determination, nested models, and stepwise regression; PRESS and Mallows' Cp-statistic; Model building with quantitative and qualitative independent variables.","After successful completion of this module, students will be able to:
+- apply the basic principles of linear regression;
+-use and interpret computer printouts from statistical analysis packages;
+-select models by means of stepwise regression, AIC criteria; and
+-build first-order and second-order models with different numbers of quantitative independent variables, build models with different numbers of qualitative independent variables, and build models with both quantitative and qualitative independent variables.",,,,,Applied,Regression
+UFS,STSA2626,Multiple Regression: Variance and time series analysis,2,2,No,6,24,"Tests for influential observations and outliers; Multicollinearity, data transformations, and residual analysis; Time series analysis and forecasting; 
+Autoregression models; Two-factor factorial experi¬ments and more complex factorial designs","After successful completion of this module, students will be able to:
+
+Understand and use linear regression models
+
+Understand the theoretical foundations of time series analysis
+
+Understand logistic regression models
+
+Understand the experimental design
+
+Understand generalised linear models.",,,,,Applied,Generalized Linear Models
+UFS,STSA3716,Probability (I),3,1,No,7,24,"Introduction to probability, probability distributions and probability densities. Mathematical expectation and special probability distributions.","Students will be able to:
+
+-utilise, manipulate, and compare discrete random variables, probability distributions, continuous random variables, probability density functions, multivariate-, marginal- and conditional distributions;
+-determine expected values and moments of a random variable; 
+-understand the concepts of moment-generating functions, product moments, moments of linear combinations of random variables, and conditional expectations, and derive and manipulate these functions; and
+-understand and apply the  most prominently occurring probability distributions in statistical theory.",,,,,Mathematical,Probability Theory
+UFS,STSA3726,Probability (II),3,2,No,7,24,"1.        Probability densities
+2.        Functions of random variables 
+3.        Sampling distributions
+4.        Estimation theory",,,,,,Mathematical,Probability Theory
+UFS,STSA3732,Applied Statistics I,3,1,No,7,8,"The aim of this module is to give successful candidates the skills needed to: Be proficient in the use of statistical programming packages such as SAS and R; Program, apply, and evaluate basic statistical methods within a data analysis procedure.","Students will be able to:
+-utilise statistical software packages,  such as SAS and R, in order to input, transform, summarise, and visually present univariate and multivariate data;
+-understand, program, and apply descriptive statistics and basic statistical analysis models (analysis of variance, regression, and hypothesis testing, for example) within the selected statistical software packages; 
+-analyse and interpret the results of the statistical output; and
+-evaluate the validity of the statistical methods applied, based on the analyses.",,,,SAS,Applied,Software Application
+UFS,STSA3742,Applied Statistics II,3,2,No,7,8,"The aim of this module is to give successful candidates the skills needed to: Be proficient in the use of statistical programming packages such as SAS and R; Program, apply, and evaluate both basic and more advanced statistical methods within a data analysis procedure; Create detailed data analysis reports.","Students will be able to:
+-show proficiency in utilising statistical software packages, such as SAS and R;
+-understand, program, and apply basic and advanced statistical analysis models within the selected statistical software packages;
+-analyse and interpret the results of the statistical output; 
+-evaluate the validity of the statistical methods applied, based on the analyses; and 
+-create statistical reports on the analysis of a given data set, and the application and evaluation of a statistical method, in a manner simple enough to be understood by the lay person, but technical enough to interest a field expert.",,,,SAS,Applied,Software Application
+UFS,STSM1614,Mathematical Statistics I,1,1,No,6,16,Descriptive statistics; Introduction to probability and probability distributions; Hypotheses testing.,"Students will be able to:
+
+-Recognise and apply the basic principles of statistics; 
+-Create confidence intervals and test hypotheses; and
+-Solve statistical problems, deciding on the methods to be applied, analysing data, and concluding logically  from the results.",0.8,0.2,,,Mathematical,Probability Theory
+UFS,STSM1624,Mathematical Statistics II,1,2,No,6,16,"Stochastic variables; Distribution theory; Joint-, marginal- and conditional distributions; Expected values.","Students will be able to:
+
+-Utilise continuous random variables;
+-Formulate conditional distributions and functions of random variables with joint distributions; 
+-Determine the expected value, variance, covariance and correlation of random variables; and
+-Solve probability problems by formulating the problems analytically, quantifying available information, manipulating probability models and interpreting results.",0.8,0.2,,,Mathematical,Probability Theory
+UFS,STSM2616,Sampling Distribution Theory and Inference,2,1,No,6,24,"Limit theorems; Chi-Square-, t- and F- distributions; Sampling theory; Estimation of parameters; Properties of good estimates; Basic interval estimation","Students will be able to:
+
+-Use the central limit theorem;
+-Construct distributions from the Normal distribution;
+-Estimate parameters from various other distributions; and
+-Find basic confidence intervals.",0.5,0.5,Optional,R/Excel/Python,Mathematical,Inferential Statistics
+UFS,STSM2626,Baysian Inference,2,2,No,6,24,Inference I,"Bayesian Statistical Inference
+1.Decision theory
+2.Bayes inference
+3.Conjugate priors and the Normal and other common distributions
+4.Credibility intervals
+5.Noninformative prior distributions and Bayes estimates
+Students should be able to:
+1.understand and apply decision theory and Bayes inference.
+2.find credibility intervals
+3.derive posterior distributions for the parameters of various distributions
+apply results in practice to find posterior distributions",0.9,0.1,,,Mathematical,Bayesian Statistics
+UFS,STSM2634,Statistical Programming,2,1,No,6,16,,,,,,,Applied,Software Application
+UFS,STSM3714,Hypothesis Testing,3,1,No,7,16,Theory of hypothesis testing; Derivation of tests and the properties of tests; Approximate tests; Tests for categorical data; Contingency tables; Theory of confidence intervals and the properties of good confidence intervals; Pivotal quantities and the derivation of confidence intervals; Approximate confidence intervals.,"Students will be able to:
+
+-Recognise and recall properties of the standard distributions in statistics;
+-Perform classical hypothesis testing under a variety of circumstances;
+-Derive tests and confidence intervals for the parameters of most standard distributions; and
+-Apply statistical tests and confidence intervals in practice and interpret the results.",0.9,0.1,,,Mathematical,Hypothesis Testing
+UFS,STSM3734,Causal Inference,3,1,No,7,16,"This module introduces methods for causal inference, including analysis of variance (ANOVA) for designed experiments, regression for observational studies, and the potential outcomes approach that attempts to bridge the divide between the former two methods. 
+1. ANOVA and design of experiments
+2. Simple and multiple regression, including regression diagnostics
+3. Basic Bayesian linear regression, multiple imputation, propensity score matching and potential outcomes for causal inference.","Student will  be able to:
+
+-Apply, analyse and interpret one-way and two-way ANOVA for designed experiments and causal inference.
+-Apply, analyse and interpret simple and multiple linear regression for causal inference and exploratory studies. 
+-Formulate algorithms for implementing Bayesian linear regression, and sequential Normal regression multiple imputation, and explain how these methods are used for the potential outcomes approach to causal inference. 
+-Discuss the similarities and differences, defend the strengths, and criticise the weaknesses of the ANOVA, regression, and potential outcomes approaches for causal inference.",0.3,0.7,About 10%,R + Excel,Mathematical,Inferential Statistics
+UFS,STSM3744,Time Series Analysis,3,2,No,7,16,"-Ordinary Least Squares (OLS) regression
+-Variable and Model Selection using Information Criterion
+-Generalised Linear Models (GLM) regression
+-Spectral Analysis of a time series
+-Analysis of mean and variance to determine stationarity 
+-Time series decomposition
+-Removal of non-stationarity through transformation
+-Autocorrelation analyses (multiple types)
+-Identification and fitting of 
+-Autoregressive and Moving Average time series models
+-Order of Integration analysis of a time series
+-Box-Jenkins analysis
+-Diagnostic analyses","Student will be able to:
+Perform each of the following types of statistical analysis in a thorough and well-reasoned manner: 
+- OLS regression, 
+- variable and model selection using information criteria, 
+- GLM regression, 
+- spectral analysis of a time series,
+- stationarity  and integration order analysis (and removal of stationarity), 
+- time series decomposition, 
+- autocorrelation analyses, 
+- identification and fitting of AR and MA models, 
+- Box-Jenkins analysis, and 
+- diagnostic analyses;
++list and test the assumptions underlying each analysis, as well as theoretically justify each action performed; and
++report results in both scientific language and layman¿s terms.",0.9,0.1,,,Mathematical,Time Series Analysis
+UFS,STSM3764,Generalised Linear Models,3,2,No,7,16,"1.        Generalising the linear model
+2.        Estimation
+3.        Inference
+4.        Binary data and logistic regression
+5.        Poisson regression and log-linear models
+6.        Data with constant coefficient of variation","Student will be able to:
+
+-demonstrate knowledge of the theory of generalised linear models,
+-formulate models with the appropriate choice of error distribution, link function and variance function for particular data sets,
+-reflect on the merits of alternative model formulations for relevant data sets,
+-compare generalised linear models, linear models and contingency table methods,
+-demonstrate knowledge of maximum likelihood (ML) estimation for generalised linear models,
+-perform hypothesis testing and interval estimation in generalised models,
+-apply and analyse goodness of fit statistics for generalised linear models,
+-evaluate relevant data sets by fitting generalised linear models using statistical software, and interpret the results.",0.2,0.8,About 40%,R,Mathematical,Generalized Linear Models
+UFS,EBCS1514/EFBC2514,Business Calculations I,1,1,No,5,16,"Business calculations are an introductory module, which enables the students to understand the basic calculation practices used.","Student will be able to: 
+- Perform basic mathematical calculations confidently; 
+- Apply mathematical concepts and calculations in the context of economic and management sciences; and
+- Apply statistical concepts and calculations in the context of economic and management sciences.",,1,,,Applied,Applied: Finance
+UFS,EBCS1524/EFBC2524,Business Calculations II,1,2,No,5,16,"Business calculations are an introductory module, which focusses on the organising and describing data, measurement of central tendency and dispersion, basic probability and probability distributions, confidence intervals, hypothesis testing, Chi-squared tests as well as regression - and correlation analysis.","Student will be able to: 
+- Apply mathematical concepts and calculations in the context of economic and management sciences; and
+- Apply statistical concepts and calculations in the context of economic and management sciences.",,1,,,Applied,Applied: Finance
+Wits,STAT1003,Mathematical Statistics I,1,0,No,5,18,"Descriptive statistics
+ Counting techniques
+ Probability
+ Discrete and continuous distributions of random variables
+ Point and interval estimation
+ Regression and correlation","A student should be able to display data graphically and interpret it, calculate and interpret various summary measures, understand the terminology of probability and calculate probabilities, recognise, understand, and apply discrete and continuous distribution functions, derive the expected value and variances for most distributions, solve word problems by correctly classifying them according to their distributions, understand estimation and calculate and interpret confidence intervals, understand and apply linear regression concepts and use R. 
+ play data graphically and interpret",,,0.05,R,Mathematical,Probability Theory
+Wits,STAT2005,Mathematical Statistics II,2,0,No,6,48,"Probability 
+Discrete Distributions 
+Continuous Distributions
+Bivariate Distributions
+Transformation of Random Variables 
+Sums of random variables 
+Central limit theorem 
+Point estimation 
+Interval estimation
+Hypothesis testing 
+Likelihood ratio tests 
+Regression
+Bayesian statistics ",,,,0.1,R ,Mathematical,Inferential Statistics
+Wits,STAT3031,Multivariate Statistics ,3,2,No,7,14,"Matrix Algebra
+Multivariate Normal distribution
+Inferences on the mean vector
+MANOVA
+Multivariate Regression
+Principal component analysis 
+Factor Analysis
+Canonical Correlation Analysis 
+Discriminant analysis 
+Clustering 
+Copulas","1. Contextualise the concepts of analysing multivariate data.
+2. Familiarise with basic minimum level of matrix compentency and with general aspects of handling multivariate data.
+3. Recognise the link between multivariate techniques and the corresponding univariate techniques.
+4. Define, fit and analyse multivariate regression models. 
+5. Undertake multivariate hypothesis tests, and other inferences to draw appropriate conclusions.
+6. Apply dimension reduction techniques on various types of data, and interpret results from the fitted models.
+7. Implement the multivariate data analysis techniques using statistical software and draw appropriate conclusions.",0.6,0.2,0.2,R,Mathematical,Multivariate Statistics
+Wits,STAT3032,Risk Theory,3,1,No,7,14,"Loss distributions
+Extreme value theory
+Collective risk models
+Reinsurance","Outline the characteristics of financial risk and how these relate to the choice of distribution for modelling purposes.
+Revise the concepts underlying parameter estimation, specifically maximum likelihood theory.
+Analyse the Weibull distribution and why explain why it is used for modelling financial risk.
+Introduce the concepts of deductibles and reinsurance in the context of general insurance, and demonstrate how to adjust the loss distribution through conditioning or truncation.
+Outline the individual risk model, and explain why it is inadequate for modelling aggregate losses.
+Outline the collective risk model, which relates to compound distributions, and demonstrate its usefulness in modelling aggregate losses.
+Define the compound Poisson distribution.
+Demonstrate, using the law of iterated expectation, how to compute moments and other quantities of interest for compound distributions, including the overall distribution itself.
+Outline the Normal approximation of a compound distribution, and compare this to the shifted Gamma approximation.
+Understand and prove Panjer’s recursive formula for computing exact probabilities from compound distribution in the case of discrete loss amounts, and explain how it can be adjusted in the presence of reinsurance.
+Demonstrate the necessity of normalising constants when considering asymptotic distributions of extreme values.
+Introduce the Generalised Extreme Value distribution and outline the three types, which are the Gumbel, Fréchet and Negative Weibull distributions.
+Describe the relationship between the three types of extreme value distributions.
+Explain the stability postulate and the concept of maximum-stability, and how this relates to the Generalised Extreme Value distribution.
+Introduce the concept of regularly varying functions and demonstrate how this relates to the three types of extreme value distributions.
+Explain how to perform inference for the Generalised Extreme Value distribution using both maximum likelihood theory and profile likelihood theory.
+Outline how to test for goodness-of-fit using probability plots, quantile plots and return level plots.",,,,,Applied,Applied: Finance
+Wits,STAT3033,Statistical Elements of Machine Learning ,3,2,No,7,14,,,,,,,Applied,Machine Learning
+Wits,STAT3034,Stochastic Processes,3,1,No,7,14,"Discrete time Markov chains
+Continuous time Markov jump processes
+Properties of states such as recurrence, transience and periodicity. 
+Classic problems - such as the gambler’s ruin problem and asymmetric random walks, as well as the Poisson process.",,,,,,Mathematical,Stochastic Processes
+Wits,STAT3035,Survival Analysis ,3,1,No,7,14,"1.	Introduction
+2.	The Kaplan-Meier estimator for the survivor function
+3.	Hazard
+4.	Model checking
+5.	Multiple events
+6.	Additional topics
+","Introduce the concept of censoring and how it affects the likelihood function for parameter estimation in fitting survival data to a parametric model.
+Demonstrate the necessity of a specialised estimator for the survivor function when using a non-parametric approach.
+Derive the Kaplan-Meier estimator using both a method of moments approach and a likelihood approach, as well as describe the properties of the estimator.
+Understand how to perform inference for the survivor function based on the Kaplan-Meier estimator.
+Describe and implement the log-rank test for differences between survivor functions.
+Define the hazard function and describe its relationship to survival.
+Derive the Nelson-Aalen estimator for the integrated hazard function using a counting methods approach, as well as describe the properties of the estimator.
+Understand how to perform inference for the integrated hazard function based on the Nelson-Aalen estimator.
+Introduce the concept of proportional hazards modelling and why it is useful for modelling survival.
+Describe the semi-parametric estimation procedure involved in fitting survival data to a proportional hazards model, and why such an approach is necessary.
+Outline the Cox model as a special case of the proportional hazards model, and how the score test for parameter estimators under the Cox model generalises the log-rank test.
+Explain why specialised residuals are required for models of survival data (censoring).
+Define the Cox-Snell residual and describe how it can be used to assess the model fit.
+Define the martingale residual and how it can be used to assess whether a particular explanatory variable (or covariate) should be included in a proportional hazards model.
+Define the Schoenfeld residual and how it can be used to assess whether the parameters are time-dependent in a Cox model.
+Describe multi-state modelling and how it generalises the basic survival model considered in previous sections.
+Demonstrate how to fit a multi-state model to data, and how to estimate the standard errors of the parameter estimators using the Jackknife resampling method, as well as explain why it is necessary to use this method in for multi-state models.
+Describe competing risks modelling as a special case of multi-state modelling, and explain why it is necessary to consider cause-specific survival in the presence of competing risks.
+Describe net survival modelling in contrast to competing risks modelling, outline the desired properties of an estimator for the net integrated hazard function, and use these properties to derive such an estimator.
+Describe frailty modelling and how it is used to relate survival to hidden (or latent) variables.
+Understand the concept of cure in the context of survival analysis, and derive the likelihood function in the presence of cure.
+Describe the expectation-maximisation algorithm and how it is used to fit a cure model to survival data, as well as explain why it is necessary to use the algorithm in this case.
+Determine how large a sample is required to detect, with a specified level of statistical significance, a difference between two survival distributions using the log-rank test.",,,,,Mathematical,Applied: Survival Analysis
+Wits,STAT3036,Time Series ,3,2,No,7,14,"Introduction to autoregressive behaviour.
+ White noise, random walk, the concept of autocorrelation.
+ Smoothing techniques.
+ Box-Jenkins ARMA methodology and theory.
+ Unit root testing, introduction to ARIMA. Estimation and residual testing.
+ ARIMAX and forecasting.
+ Seasonal ARIMA and associated forecasting and autocorrelation concepts.
+ Introduction to ARCH and GARCH modelling.","At the end of this module, students should be able to illustrate an acute knowledge (both theoretical and in practice) of time series concepts. This knowledge is learned and contextualised via Box-Jenkins methodology and includes a significant proportion and focus of implementation using R. Key outcomes include understanding and describing data that would be related to itself at previous points in time, its autoregressive (or moving average, or both) mathematical description and identification. In addition, the student should be able to I) describe the nature of unit roots, 2) be able to apply reasonable testing procedures to establish the potential existence of a unit root, 3) apply suitable transformations to data to establish stationarity and 4) apply learned concepts towards model identification, estimation, and residual analysis. Finally, students should be able to contextualise drawbacks of the ARIMA approach by meaningfully being able to enrich the framework with 1) seasonal considerations and 2) accounting for heteroscedasticity via ARCH and GARCH motivations and approaches in a reasonable way.",0.5,0.2,0.3,,Mathematical,Time Series Analysis
+Wits,STAT2012,Introduction to Mathematical Statistics II,2,2,No,6,8,"Descriptive Statistics
+Permutations & Combinations
+Probability
+Discrete & Continuous Random Variable
+Sampling & Distributions
+Tests of Hypothesis about a Mean
+Correlation & Regression.",,,,,,Mathematical,Probability Theory
+Wits,STAT2013,Basic Statistics for Natural Sciences II,2,2,No,6,12,"Descriptive statistics (graphical as well as numeral summaries), 
+Simple random sampling
+Basic probability concepts key
+Probability distributions
+Correlation
+Simple linear regression
+Basic inferential statistics - both parametric and non-parametric tests.","The student should be
+ able to identify, and distinguish between, different statistical techniques; select an appropriate statistical
+ test required to analyse data and; analyse data and correctly interpret the result obtained from the analysis",,,,,Applied,Applied: Biostatistics
+Wits,STAT3037,Introduction to Spatial Statistics,3,2,No,7,18,"Introduction to spatial statistics
+Exploratory Spatial Data Analysis 
+Spatial weight matrix and neighbourhood structure 
+Spatial autocorrelation
+Spatial sampling 
+Lattice Data Application 
+Point Data Application 
+","The student should be able to: 
+Distinguish different types of spatial data and explain how spatial autocorrelation plays a role in statistical modeling. 
+Use existing methods to investigate spatial autocorrelation
+Analyse spatial data theoretically and in R.
+Compute summary spatial functions in R.
+Implement spatial sampling.
+Compare spatial data sets for similarity.
+Determine which spatial methods to use in own research and implement using R. ",,,,,Applied,Software Application
+SPU,MBST51112,Business Statistics A,1,1,No,5,12,,,,,,,Applied,Applied: Finance
+SPU,MBST51112,Business Statistics B,1,2,No,5,12,"•	Common distributions of random variables,
+•	Correlation analysis,
+•	Point estimation & interval estimation,
+•	Analysis of variance,
+•	Simple Linear regression,
+•	Time Series and Indices,
+•	Statistical software application.",,,,,,Applied,Applied: Finance
+SPU,NSTA51416,Probability Theory,1,2,No,5,16,"•	Set Theory
+•	Probability Theory
+•	Random Variables, Expected Values
+•	Distributions and their properties (Discrete and Continuous)
+•	Hypothesis Testing and Confidence Intervals (two samples)
+•	Hypothesis testing for the correlation coefficient (rho)
+•	Chi-squared Tests of association and independence
+•	Regression and Introduction to ANOVA
+",,,,,,Mathematical,Probability Theory
+SPU,NSTA51516,Introduction to Statistics,1,1,No,5,16,"•        Descriptive Statistics
+•        Introduction to Probability
+•        Probability Distributions 
+•        Normal Distribution
+•        Simple Random Sampling
+•        Introduction to Inference (Estimations for one sample)
+•        Hypothesis Testing and Confidence Intervals (one sample)
+•        Linear Correlation and Regression",,,,,,Mathematical,Probability Theory
+SPU,NSTA51616,Statistics for Biologists,1,2,No,5,16,"•	Descriptive Statistics
+•	Introduction to Probability
+•	Probability Distributions (Normal, Student t, Binomial, Poisson, Chi-squared, F)
+•	Simple Random Sampling, Sampling error, Standard Error
+•	Introduction to Inference (Estimations for one sample)
+•	Hypothesis Testing and Confidence Intervals (one sample)
+•	Linear Correlation and Regression 
+•	Chi-squared tests to assess the goodness of fit
+•	Understanding and applying ANOVA",,,,,,Applied,Applied: Biostatistics
+SPU,NSTA62320,Distribution Theory,2,1,No,6,20,"•	Probability and Random Variables, 
+•	Expectations, Moments, Generating Functions, 
+•	Advanced Univariate Distributions and their properties, 
+•	Bivariate distributions and their properties, 
+•	Marginal and Conditional Distributions, 
+•	Limit Theorems, 
+•	Transformation of Random Variables,
+•	Extrema and Order Statistics
+•	Sums and Quotients of Random Variables
+•	Estimation of Parameters",,,,,,Mathematical,Probability Theory
+SPU,NSTA62620,Statistical Inference,2,2,No,6,20,"•        Sampling Theory. Point estimation: maximum likelihood,  method of moments, ordinary least squares. 
+•        Properties of estimators. 
+•        Interval estimation: Hypothesis testing: likelihood ratio test, best critical regions, uniformly most powerful tests. 
+•        Least squares estimation and inference for the simple linear regression model. Principles of Bayesian estimation.
+•        Bayes analysis and Bayes inference
+•        Introduction to Decision theory",,,,,,Mathematical,Inferential Statistics
+SPU,NSTI62112,Statistical Inference,2,1,No,6,12,"•        Linear functions
+•        Introduction to P-values
+•        Hypothesis recap
+•        Chi-squared goodness of fit test
+•        Analysis of variance
+•        Non-parametric statistics",,,,,,Mathematical,Hypothesis Testing
+SPU,NMST73116,Multivariate Statistics,3,1,No,7,16,"•	Multiple linear regression recap
+•	Generalized linear models: linear models as an extension of linear regression.
+•	Analysis of binary or count data.
+•	Indicator variables
+•	Error reduction by blocking, including randomized complete blocks & Latin square designs
+•	Multivariate Statistics
+",,,,,,Mathematical,Multivariate Statistics
+SPU,NSTA73315,Regression Analysis,3,1,No,7,15,"•        Simple regression, Multiple regression with Assessment of Model Fit
+•        Matrix algebra, 
+•        Analysis of variance and
+•        quadratic development. 
+•        Theory of Multiple Regression
+•        Polynomial regression, Residual Analysis",,,,,,Applied,Regression
+SPU,NSTA73415,Markov Processes,3,2,No,3,15,"•	Introduction to Stochastic Processes (General theory and their classifications)
+•	Markov Chains (Definitions and Applications)
+•	Markov Processes
+•	Branching Processes (Extinction or Survival applications)
+•	Counting Processes
+",,,,,,Mathematical,Stochastic Processes
+SPU,NSTA73515,Non-Parametric Satistics,3,1,No,7,15,"•        An Introduction to Non-Parametric Statistics 
+•        Order statistics and their applications, 
+•        The sign test and its variations; 
+•        Rank tests; 
+•        Tests for the measure of association; 
+•        Tests of randomness; Kolmogorov-Smirnov test",,,,,,Mathematical,Inferential Statistics
+SPU,NSTA73615,Time Series Analysis & GLM,3,2,No,7,15,"•	Introduction to GLMSs
+•	Fundamental concepts of GLMs and their Applications
+•	Categorical data analysis (Logistic Regression, Poisson
+•	Regression, Negative Binomial Regression)
+•	Time Series Analysis:
+•	Introduction to Time Series Analysis
+•	Theory and Application of Exponential Smoothing, Box
+•	Jenkins time series methods, including model building and
+•	model checks.                                                                                   
+•	An introduction to Spectral Analysis",,,,,,Applied,Time Series Analysis
+NWU,STTK 214,Statistics for life sciences,2,1,No,6,16,"• Demonstrate knowledge and the ability to effectively apply the following:
+- the most important statistical techniques that are used daily, such as sampling methods, graphical
+representation of data, descriptive measures of location and spread;
+- linear regression curves to bivariate data using the least squares technique;
+- simple predictions by means of the fitted curve, and interpretation of the coefficient of correlation;
+- time series data and the calculation of the movement components to predict future outcomes;
+- simple probability calculations and probability distributions;
+- the central limit theorem and the application of the theorem to practical problems;
+- estimating population parameters by using point and interval estimation;
+- hypothesis testing for population means and population proportions for one and two samples;
+- one way and two-way ANOVA;
+- chi squared test for independence;
+- principle component analysis.
+
+• Recognise the presence and applicability of statistical concepts in a practical situation and perform
+statistical methods to summarise, understand and analyse data sets by using statistical computer
+software.
+
+• Identify the appropriate statistical technique applicable to the problem presented.",,,,,,Applied,Applied: Biostatistics
+NWU,STTK 312,Engineering statistics,3,1,No,7,16,"• Demonstrate fundamental knowledge of the following statistical concepts: uncertainty and
+variation, a distribution, certain continuous and discrete distributions, numerical summary
+measures, bivariate and multivariate data and distributions, methods for obtaining data,
+probability and sampling distributions, quality and reliability, point estimation and statistical
+intervals, testing statistical hypotheses, the analysis of variance, experimental design and
+inferential methods in regression and correlation;
+
+• Demonstrate his/her ability to interpret graphic illustrations of the data, explain the concept of
+a distribution, work with certain continuous and discrete distributions, calculate measures of
+centre, spread and variants thereof, make scatter plots, calculate correlation coefficients, fit
+lines to data and work with multivariate data, explain different sampling methods and
+measurement systems, explain basic concepts in probability theory and the description of
+sampling distributions, explain methods used in quality and reliability, calculate point and
+interval estimates, perform hypothesis testing procedures, perform analysis of variance
+calculations, propose an experimental design in specific cases and use inferential methods in
+regression and correlation.",,,,,,Applied,Applied: Science
+NWU,STTN 111,Descriptive statistics,1,1,Yes,5,12,"• Demonstrate fundamental knowledge of the most important elementary statistical techniques that are
+used daily, such as sampling methods, graphical representation of data, descriptive measures of
+location and spread, least squares line fitting, prediction from least squares lines, the coefficient of
+correlation, multiple linear regression with applications in prediction, time series data, movement
+components to predict future outcomes, practical considerations regarding sample surveys and sample
+sizes;
+• Demonstrate problem solving skills by analysing known and unknown problems, using knowledge to
+apply sampling methods, graphical representation of data, descriptive measures of location and
+spread, least squares line fits, predictions using least squares fits, correlation coefficients,
+interpretation of multiple linear regression output, movement component calculations, prediction of
+future outcomes time series data and sample size determination to real life data.",,,,,,Applied,Probability Theory
+NWU,STTN 115,Descriptive statistics and inference,1,1,No,5,,"• Demonstrate fundamental knowledge and understanding of the most important elementary statistical
+techniques that are used daily, such as sampling methods, graphical representation of data,
+descriptive measures of location and spread, least squares line fitting, prediction from least squares
+lines, the coefficient of correlation, multiple regression, time series data, movement components to
+predict future outcomes, practical considerations regarding sample surveys and sample sizes;
+
+• Demonstrate knowledge and understanding of the normal and probability distributions, the central
+limit theorem, estimation of population parameters by the use of point and interval estimation,
+hypothesis testing for population means and proportions for one and two samples (parametric and
+non-parametric);
+
+• Demonstrate skills to use statistical knowledge and techniques to solve known and unknown real
+world problems and to communicate methods, solutions and conclusions as an individual and/or part
+of a group, orally and in writing in an ethical, responsible and acceptable way.",,,,,,Applied,Probability Theory
+NWU,STTN 121,Introductory Statistical Inference,1,2,Yes,5,,"• Demonstrate fundamental knowledge of probabilities and probability distributions, the central limit
+theorem, estimation of population parameters by means of point and interval estimation, hypothesis
+testing for population averages and proportions for one and two samples, one-way analysis of variance
+(ANOVA) and categorical data analysis, contingency tables and basic tests on categorical data;
+
+• Demonstrate problem solving skills by analyzing familiar and unfamiliar problems, using acquired
+knowledge to solve simple probability problems, applying the knowledge gained above on data where
+applicable",,,,,,Mathematical,Inferential Statistics
+NWU,STTN 122,Introductory statistics,1,2,No,5,,"• Demonstrate statistical techniques used every day, for example sampling methods, graphical
+representation of data and descriptive measures of locality and scattering;
+• Use fitting linear regression curves to bivariate data and using the least squares method;
+• Make simple predictions by using appropriate curves, as well as by interpreting the correlation
+coefficient;
+• Handle time series data and calculate movement components in order to predict future outcomes;
+• Carry out simple probability calculations and use probability distributions;
+• Demonstrate the central limit theorem and applying it to practical problems;
+• Estimate population parameters by means of point and interval estimation;
+• Demonstrate hypothetical testing for population averages and population proportions in one or two
+sampling cases.
+• Identify the presence and applicability of the above statistical concepts in a practical situation, as well as to perform statistical methods using manual analysis or statistical software.",,,,,,Applied,Probability Theory
+NWU,STTN 124,Practical statistics,1,2,No,5,,"• Demonstrate correlation and its interpretation, the method of least squares fitting to a regression function prediction by means of a regression function, multiple linear regression and selection of predictors;
+• Do basic factor analysis and the interpretation of its results, interpretation of factor matrices and
+construct validity;
+• Demonstrate the hypothesis testing procedure, probability calculations, the central limit theorem, level of significance and p values;
+• Demonstrate one-way ANOVA testing procedures and the interpretation of results;
+• Discuss the practical significance of effect sizes of differences in averages and proportions for one and two populations;
+• Do categorical data analysis by means of contingency tables, chi-squared tests and independence tests;
+• Demonstrate distribution-free methods: the difference between parametric and nonparametric methods of inference, as well as deciding which method to use in a specific situation;
+• Identify the presence and applicability of statistical concepts in a practical situation, as well as to perform statistical methods using manual analysis or statistical software. 
+",,,,,,Applied,Software Application
+NWU,STTN 125,Introductory probability theory,1,2,No,5,,"• Demonstrate knowledge and understanding of concepts such as:
+- the sample space, events, probability measures, counting methods, random outcomes of events and the independence of events;
+- important probability theorems such as the law of total probability and the theorem of Bayes;
+- random variables, distribution functions and mass function, discrete random variables and the following distributions: binomial, geometric, negative binomial, hyper geometric, and Poisson as well as exponential, gamma and normal distributions and the functions of these variables;
+
+• Demonstrate skills to use statistical knowledge and techniques to solve known and unknown real world problems and to communicate methods, solutions and conclusions as an individual and/or part of a group, orally and in writing in an ethical, responsible and acceptable way.",,,,,,Mathematical,Probability Theory
+NWU,STTN 215,Probability and sampling theory,2,1,No,6,,"• Demonstrate knowledge of:
+- the probability structure of two or more random variables as well as their joint distributions;
+- copulas and their properties;
+- conditional distributions and the application of probability calculations on conditional
+distributions;
+- order statistics and the application thereof;
+- the expected value and variance of all the important discrete and continuous random variables
+that were discussed in earlier work;
+- the covariance and correlation of two random variables, in addition to conditional expected values and moment generating functions;
+- two of the most important theorems of Probability theory, the so-called Law of Large Numbers and
+the Central Limit Theorem.
+- distributions derived from the normal distribution;
+• Demonstrate problem solving skills by analysing problems that had been previously encountered and problems that are new and unfamiliar.
+• Use computer programming software to apply these concepts practically.",,,,,,Mathematical,Probability Theory
+NWU,STTN 225,Statistical inference and data analysis,2,2,No,6,,"On completion of the module the student should be able to:
+• Demonstrate fundamental knowledge of the following statistical concepts: method of moments and the method of maximum likelihood to estimate parameters, efficiency of an estimator, sufficient statistics, the testing of hypotheses, the duality of confidence intervals and hypothesis testing, informal techniques for assessing goodness of fit, methods for summarizing data, measures of location and spread, density estimation, and the bootstrap.
+• Demonstrate problem solving skills by analysing familiar and unfamiliar problems, estimating parameters by means of the method of moments and maximum likelihood, determining if an estimator is efficient and finding sufficient statistics in a variety of problems.
+• Demonstrate the ability to construct complete and sufficient statistics, use the Neyman-Pearson paradigm to perform a hypothesis test, apply the connection between hypothesis testing and confidence intervals in the context of estimation, make conclusions using descriptive statistics, apply methods for summarizing data, calculate measures of location and spread, be able to use the bootstrap to (a) construct confidence intervals for a parameter and (b) estimate the variability of an estimator.
+• Apply these concepts to real-world data.
+• Use computer programming software to apply these concepts practically.",,,,,,Mathematical,Probability Theory
+NWU,STTN 316,Linear models I,3,1,No,7,,"• Demonstrate integrated knowledge of linear statistical models including an understanding of, and an ability to apply, these models in theoretical and real-world settings;
+• Identify, analyse, critically reflect on and address complex statistical problems, applying theory driven arguments based on linear statistical models;
+• Display problem solving skills by analysing problems that had been previously encountered and problems that are new and unfamiliar.",,,,,,Applied,Regression
+NWU,STTN 317,Statistical software and applications I,3,1,No,7,,"• Demonstrate integrated knowledge of the application of statistical software to conduct various
+statistical analyses;
+• Display problem solving skills by analysing problems that had been previously encountered and
+problems that are new and unfamiliar.
+• Communicate his or her statistical results and conclusions in a well-formed argument using
+appropriate academic and professional language. ",,,,,,Applied,Software Application
+NWU,STTN 326,Analysis of dependent data,3,2,No,7,,"• Demonstrate integrated knowledge of time series models and critical understanding and application
+of these models;
+• Demonstrate integrated knowledge of copulas and critical understanding and application of copulas;
+• Select, apply, and critically judge the effectiveness of the implementation of relevant time series models
+and various types of copulas.",,,,,,Applied,Time Series Analysis
+NWU,STTN 327,Statistical software and application II,3,2,No,,,"• Demonstrate integrated knowledge of the application of statistical software to conduct various statistical analyses;
+• Display problem solving skills by analysing problems that had been previously encountered and problems that are new and unfamiliar;
+• Communicate his or her statistical results and conclusions in a well-formed argument using
+appropriate academic and professional language.",,,,,,Applied,Software Application
+CPUT,STA150S/X,Statistics 1A: Probability and Summary Stats,1,1,No,5,14,"- Data types
+- Descriptive techniques (plots, tables)
+- Descriptive statistics (measures of central tendency, dispersion, relative standing)
+- Basic probability and random variables (permutations and combinations, additive, multiplicative, and complement rules of probability, conditional probability and Bayes' theorem, law of total probability, discrete vs continuous random variables)
+- Special probability distributions (Binomial, Poisson, Normal, Normal approximation to Binomial)
+- Sampling distribution of mean and proportion",,0,0.9,0.1,"SAS, R, Excel",Applied,Probability Theory
+CPUT,STA151S/X,Statistics 1B: Estimation and Hypothesis Tests,1,2,No,5,14,"- Central limit theorem (stated, not proven)
+- Estimation (point vs interval estimation; estimation of mean, proportion, difference in means, difference in proportions)
+- Hypothesis testing (null and alternative hypotheses, type I and type II error, critical values vs. p-values, one- and two-tailed tests)
+- Inference on one population (mean, proportion)
+- Inference on two populations (paired and unpaired t-tests; comparison of proportions)
+- Pearson chi-squared tests for categorical data (goodness of fit; independence)
+- Basic nonparametric methods (sign test; Mann-Whitney test)",,0,0.9,0.1,"SAS, R",Applied,Inferential Statistics
+CPUT,STA260S,Statistics 2A: Models for Data Analysis,2,1,No,6,14,"- Design and analysis of experiments (single-factor ANOVA, randomised complete block design, Latin square, 2x2 factorial design)
+- Correlation analysis (Pearson correlation coefficient estimation and inference)
+- Nonparametric methods (Kruskal-Wallis test, Friedman test, Spearman rank correlation coefficient)
+- Simple linear regression analysis (least squares estimator, interpolation vs. extrapolation, confidence vs. prediction interval, significance testing of parameters, coefficient of determination)
+- Multiple linear regression analysis (matrix approach, confidence vs. prediction interval, significance testing of parameters, goodness-of-fit measures, model assumptions and diagnostics, model selection)
+- Binary logistic regression (model equation, interpretation of parameter estimates, confidence intervals and inference, predictions using threshold value)",,0,0.8,0.2,"SAS, R",Applied,Hypothesis Testing
+CPUT,STA261S,Statistics 2B: Survey and Sampling Methods,2,2,No,6,14,"- Questionnaire design (structure of questionnaire, types of questions, Likert scales, Cronbach's alpha, wording of questions, biasing effects)
+- Data collection and capturing (modes of data collection, pilot surveys, coding and capturing of questionnaire data, preventing capturing errors)
+- Introduction to sampling theory (definitions, basic sampling techniques, sources of error and bias, sampling with vs. without replacement)
+- Probability sampling methods (simple random sampling, stratified random sampling, clustered random sampling, drawing a probability sample using software)
+- Sample size determination (sampling error as a function of sample size, statistical precision-vs-cost tradeoff, margin of error vs. power approach, sample size determination for stratified and clustered random sampling)
+- Ethical issues in survey research (research ethics, informed consent, anonymity vs. confidentiality)",,0.2,0.6,0.2,"SAS, R, Excel, Google Forms",Applied,Sampling Theory
+CPUT,PTH260S,Probability Theory,2,2,No,6,10,"- Basic Probability Principles (counting outcomes, mutual exclusivity and independence, additive, multiplicative and complement rules, Bayes' Theorem, law of total probability)
+- Random Variables and Probability Functions (probability mass function, probability density function, cumulative distribution function, joint, marginal, and conditional probability functions)
+- Mathematical expectation and moments (moments about origin, central moments, product moments, covariance)
+- Special discrete and continuous probability distributions (uniform, Bernoulli, binomial, geometric, negative binomial, Poisson, hypergeometric, negative hypergeometric, multinomial, multivariate hypergeometric, continuous uniform, exponential, Gamma, Beta, Normal, Bivariate Normal)
+- Deriving distributions of functions of random variables (CDF technique, transformation technique, MGF technique)",,0.9,0,0.1,R,Mathematical,Probability Theory
+CPUT,STA360S,Statistics 3A: Mathematical Statistics,3,1,No,6,14,"Derivation of sampling distributions (chi-square, Student’s t, Fisher’s F); properties
+of estimators (bias, efficiency, consistency, sufficiency, MVUEs); derivation of point
+estimators (method of moments; method of maximum likelihood); construction of
+confidence intervals; theory of statistical inference (concepts in hypothesis testing;
+Neyman-Pearson lemma; likelihood ratio test; power functions); application of
+estimation and inference theory to statistical models (correlation analysis, linear regression, analysis of variance).",,1,0,0,,Mathematical,Mathematical Statistics
+CPUT,BTS360S,Biostatistics 3,3,1,No,6,12,"- Discrete-time Markov Chains and biological applications
+- Poisson processes and Birth-and-Death processes and biological applications
+- Generalised linear models (logit, probit, Poisson regression) and biological applications",,0.2,0.5,0.3,"SAS, R",Applied,Applied: Biostatistics
+CPUT,ENT360S,Econometrics 3,3,1,No,6,12,"- Special cases of multiple linear regression (changes in functional form; categorical variables; interaction terms)
+- Violation of MLR assumptions (multicollinearity, heteroskedasticity, autocorrelation, non-normality, specification errors)
+- Dynamic econometric models (lags, Koyck transformation, Granger causality test)
+- Basics of time series forecasting",,0.2,0.6,0.2,"SAS, R",Applied,Applied: Finance
+CPUT,PST360S,Programming for Statistics 3,3,2,No,6,14,"- SAS Programming 1
+- Data manipulation and wrangling using R tidyverse
+- Generation of dynamic, reproducible reports using R Markdown and Sweave with LaTeX",,0,0.1,0.9,"SAS, R",Applied,Software Application
+CPUT,MST470S,Mathematical Statistics,4,1,No,7,12,"- Random Variables and Probability Functions (probability mass function, probability density function, cumulative distribution function, joint, marginal, and conditional probability functions)
+- Mathematical expectation and moments (moments about origin, central moments, product moments, covariance)
+- Special discrete and continuous probability distributions (uniform, Bernoulli, binomial, geometric, negative binomial, Poisson, hypergeometric, negative hypergeometric, multinomial, multivariate hypergeometric, continuous uniform, exponential, Gamma, Beta, Normal, Bivariate Normal)
+- Deriving distributions of functions of random variables (CDF technique, transformation technique, MGF technique)
+- Sampling distributions (derivation of chi-square, t, and F distributions; sampling distributions of random samples from infinite and finite populations)
+- Estimation (properties of estimators: unbiasedness, efficiency, consistency, sufficiency; method of moments; method of maximum likelihood)
+- Hypothesis Testing (Power functions; Neyman-Pearson lemma; likelihood ratio tests)",,1,0,0,None,Mathematical,Inferential Statistics
+CPUT,NPS470S,Nonparametric Statistics,4,1,No,7,12,"Nonparametric methods for hypothesis testing (methods based on the binomial distribution, methods based on contingency tables, methods based on ranks), estimation of probability density functions using kernel methods, nonparametric curve smoothing methods, nonparametric regression",,0.5,0.3,0.2,"R, SAS",Mathematical,Nonparametric statistics
+CPUT,MDA470S,Multivariate Data Analysis,4,2,No,7,12,"Multivariate data and statistics, graphical exploration of multivariate data (using, e.g., scatter plot matrix, coplots, biplots), principal component analysis, multidimensional scaling, exploratory factor analysis, and correspondence analysis",,0.3,0.5,0.2,"R, SAS",Applied,Multivariate Data Analysis
+CPUT,TSF470S,Time Series Forecasting,4,2,No,7,12,"- Basic forecasting terminology and concepts; purpose of forecasting; steps involved in forecasting
+- Objects for working with time series in R
+- Different ways of plotting time series and identifying visual patterns; differencing and autocorrelation functions
+- Decomposition of time series into trend-cycle, seasonal, and remainder components; moving averages; methods used by official statistics agencies
+- Basic forecasting techniques; fitted values and residuals; prediction intervals; forecasting performance metrics
+- Forecasting with regression; correlation, causation, and forecasting
+- Simple exponential smoothing; exponential smoothing with trend and seasonality (Holt-Winters method)
+- Stationarity; autoregressive models; moving average models; ARIMA estimation and order selection; ARIMA forecasting",,0.1,0.4,0.5,"SAS, R",Applied,Time Series Analysis
+CPUT,BST470S,Biostatistics 4,4,2,No,7,12,"- Survival analysis (survival and hazard functions, life tables, Kaplan-Meier estimation, Cox proportional hazards model)
+- Nonparametric methods: McNemar's Test, Cochran Q Test
+- Statistical design and analysis of clinical trials: RCTs, PICO, blinding, cluster randomised trials, intention-to-treat vs. per-protocol analysis, subgroup analysis
+- Ethical issues",,0.1,0.5,0.4,"SAS, R",Applied,Applied: Survival Analysis
+CPUT,MCL470S,Machine Learning & Data Science 4,4,1,No,7,12,"- Defining data science and its role in businesses
+- Explore and manipulate large data sets using querying, joining, filtering, and sorting
+- Define machine learning and distinguish between classification and regression and between supervised and unsupervised learning
+- Metrics for measuring performance of classification and regression models; ROC curves; training and test sets; k-fold cross-validation
+- Linear regression and logistic regression as machine learning techniques
+- Classification and regression trees; splitting rules and optimal stopping criteria
+- k-means clustering; optimising number of clusters using silhouette score and elbow method
+- Dimension reduction techniques (principal component analysis, factor analysis, discriminant analysis)",,0.1,0.5,0.4,"SAS, R, Python",Applied,Machine Learning
+CPUT,MCL580S,Machine Learning 5A,5,1,No,8,12,"Covers classification methods such as logistic regression, classification trees, naïve
+Bayes classifier, random forests (with bagging and/or boosting), k-nearest neighbours;
+regression methods such as linear regression, linear discriminant analysis, regression
+trees, random forest regression including with bagging and/or boosting, k-nearest
+neighbours; model evaluation, and practical implementation using statistical software,
+addressing issues like feature selection, overfitting, and model tuning.",,0.2,0.6,0.2,Python,Applied,Machine Learning
+CPUT,MCL581S,Machine Learning 5B,5,2,No,8,12,"Includes polynomial regression, regression splines, generalised additive models,
+clustering algorithms (k-means and hierarchical), support vector machines, and neural
+networks",,0.2,0.6,0.2,Python,Applied,Machine Learning
+CPUT,BSS580S,Bayesian Statistics,5,1,No,8,12,"Topics include Bayes’ Theorem, prior and posterior distributions, conjugate priors,
+Bayesian hypothesis testing, credible intervals, Bayesian linear regression, computational Bayesian statistics (MCMC)",,0.5,0.25,0.25,"R, OpenBUGS",Mathematical,Bayesian Statistics
+CPUT,APD580S,Advanced Programming for Data Science,5,1,No,8,12,"Topics include version control with Git, data wrangling with Pandas, machine learning
+with Scikit-learn, and big data processing with Hadoop and Spark, recognition of
+coding errors, emphasising practical coding skills",,,,1,"Python, Github, Hadoop, Spark",Applied,Data Science
+CPUT,DEV580S,Data Engineering and Visualisation,5,2,No,8,12,"Covers data pipelines, data storage, data manipulation, and visualisation tools like
+Power BI and Tableau, focusing on practical applications and creating interactive
+dashboards. Visualisation of spatial data using maps and visualisation of textual data
+are included.",,,0.5,0.5,"Power BI, Tableau, R-shiny",Applied,Data Science
+CPUT,CPM581S,Computational Methods,5,2,No,8,12,"Covers selected computational topics in mathematics and statistics such as numerical
+solutions for partial differential equations, computational linear algebra, and bootstrap
+methods",,0.5,,0.5,R,Applied,Mathematics & Statistics
+UCT,STA1000/1100F/S,Introductory Statistics,1,0,No,5,18,"- Probability theory & set theory
+- Perms & combs, conditional probability & independence
+- EDA & summary statistics
+- Random variables, PMFs & PDFs
+- Binomial, Poisson, Exponential, Normal & Uniform
+- Sampling distribution of xbar & CLT
+- Hypothesis testing (z, t & chi-square tests)
+- Intro to correlation & regression",,0.2,0.8,0,Excel,Applied,Probability Theory
+UCT,STA1000P,Introductory Statistics,1,0,Yes,5,18,Same content as STA1000,,0.2,0.8,0,Excel,Applied,Probability Theory
+UCT,STA1007S,Introductory Statistics for Scientists,1,2,No,5,18,Same content as STA1000,,0.2,0.8,?,R,Applied,Applied: Science
+UCT,STA1008F/S,Statistics for Engineers,1,0,No,5,12,Same content as STA1000,,0.1,0.9,0,Excel,Applied,Applied: Science
+UCT,STA1006S/1106H,Mathematical Statistics I,1,2,No,5,18,"All of STA1000 +
+- CDFs
+- Geometric, negative binomial, hypergeometric
+- t-, chi-square- & F-distributions
+- F-test",,0.3,0.7,0,R (planned),Applied,Probability Theory
+UCT,STA2020F/S,Applied Statistics,2,0,No,6,24,"- ANOVA & experimental design
+- Simple & multiple linear regression
+- Time series analysis
+- Non-parametric statistics",,0.1,0.9,,,Applied,Hypothesis Testing
+UCT,STA2007F/S/H,Generalised Linear Models,2,0,No,6,24,"- Simple & multiple linear regression
+- Design & analysis of experiments
+- Generalized linear models","At the end of this course the student should be able to:
+- identify appropriate methods to summarize and present data, and to model and analyze data
+- understand the principles of experimental design and design a basic experiment
+- understand the limitations of particular statistical methods and a given data set
+- present statistical results and methods in a short report
+- use statistical software for data manipulation, basic simulations, visualization, fitting statistical models",0.1,0.6,0.3,R,Applied,Regression
+UCT,STA2030S,Statistical Theory,2,2,No,6,24,"- Joint distributions
+- MGFs
+- Estimator bias & effiiciency
+- Re-sampling techniques
+- ...",,0.7,0.3,,,Mathematical,Probability Theory
+UCT,STA2004F,Statistical Theory & Inference,2,1,No,6,24,"- Distribution theory
+- Statistical inference",,0.8,0.2,0,,Mathematical,Inferential Statistics
+UCT,STA2005S,Linear models I,2,2,No,6,24,"- Regression
+- Design and analysis of experiments",,,,,,Mathematical,Regression
+UCT,STA3022F,Applied Multivariate Data Analysis,3,1,No,7,36,"- Item reliability analysis
+- MDS
+- PCA, FA, CA, LDA, SEM, decision trees",,0.1,0.9,0.25,R,Applied,Multivariate Statistics
+UCT,STA3030F,Statistical Inference & Modelling,3,1,No,7,36,"- Simulation & resampling
+- Bayesian inference
+- GLMs
+- ML intro - decision trees, neural networks",,0.2,0.8,0.2,R,Applied,Inferential Statistics
+UCT,STA3036S,Operational Research Techniques,3,2,No,7,36,"- Linear & non-linear programming
+- Decision making under uncertainty
+- Queueing theory",,0.2,0.8,?,?,Applied,Stochastic Processes
+UCT,STA3041F,Stochastic Processes & Time Series,3,1,No,7,36,,,,,,,Applied,Hybrid: Stochastic Processes & Time Series Analysis
+UCT,STA3045F,Advanced Stochastic Processes & Distribution Theory,3,1,No,7,36,,,,,,,Mathematical,Stochastic Processes
+UCT,STA3043S,"Statistical Modelling, Machine Learning & Bayesian Analysis",3,2,No,7,36,,,,,,,Mathematical,"Hybrid: Regression, Machine Learning & Bayesian Statistics"
+UCT,Honours & Masters,"Many modules, presume we are only doing UG for now.",,,,,,,,,,,,,
+,STA 1C2,Statistics for Commerce,1,2,No,5,15,"• Organising and Summarising Data:
+– Numerical Descriptive Statistics: Populations and samples; quantitative and qualitative data; collection and
+tabulation of data; frequency, relative frequency; measures of location for grouped and ungrouped data:
+mean, median, mode; measures of variability: range, variance, standard deviation, interquartile range,
+coefficient of variation.
+– Graphical Descriptive Statistics: Bar charts; frequency distributions; histograms, ogives, frequency poly-
+gons; box-and-whisker plots; scatter diagrams; time series plots.
+• Probability:
+– Elementary probability, conditional probability; basic properties of probability, addition and multiplication
+rules; independent and dependent events; tree diagrams, two-way frequency tables.
+– Random variables; discrete probability distributions: binomial and Poisson; expected values; continuous
+probability distributions: normal, Student t, chi-square and F.
+• Sampling, Estimation and Hypothesis Testing:
+– Different sampling methods; distribution of the sample mean, Central limit theorem.
+– Point and interval estimation: population mean (large and small samples); population variance; differ-
+ence between two means for independent and dependent populations; difference between two population
+proportions.
+– Hypothesis testing: null and alternative hypotheses, test statistics, rejection regions, type I and II errors,
+level of significance, conclusions and decision making; tests for single and two population means, proportions
+and variances.
+– Categorical data analysis: chi-square tests.
+• Correlation and Regression:
+– Simple linear regression: estimating the regression line, method of least squares, point and interval estima-
+tion of the intercept and slope, coefficient of determination; forecasting the value and expected value of the
+dependent variable for particular values of the independent variable.
+– Correlation: calculation and interpretation of Pearson’s correlation coefficient; tests of significance.
+• Time Series Analysis:
+– Components of a classical time series; computation of the trend in a time series; exponential smoothing and
+moving average methods; computation of the seasonal influences in a time series; deseasonalising a time
+series; forecasting.","On completion of the course the students will, inter alia, be able to:
+• Explain the differences between a population and a sample;
+• Collect, summarise and describe data using numerical and graphical techniques;
+• Describe different methods to graph and present data using bar graphs, frequency tables, histograms, ogives,
+frequency polygons, box-and-whisker plots, scatter diagrams, time plots. Determine the presence of outliers in
+the data;
+• Explain the concepts of probability, how to interpret probabilities and how to use the addition and multiplication
+rules to calculate simple and conditional probabilities;
+• Determine whether events are independent or dependent. Identify discrete and continuous probability distribu-
+tions, viz: binomial, Poisson, normal;
+• Demonstrate the use of the binomial, Poisson, normal, Student t, chi-square and F distributions;
+• Calculate point and interval estimates for the population mean, proportion and variance and interpret the
+meaning of each;
+• Perform tests of hypotheses for one- and two-sample analyses and draw meaningful conclusions and decisions;
+• Determine the best straight line through a set of data points and interpret its meaning. Calculate point and
+interval estimates for the slope and intercept of the regression line. Explain the meaning of the coefficient of
+determination. Test the significance of the regression line.
+• Compute point and interval forecasts for the value and expected value of the dependent variable for particular
+values of the independent variable. Calculate the correlation between two variables and test for its significance.
+• Identify and understand trend, seasonal, cyclical and irregular components in a time series. Determine the trend
+of a time series by fitting a least square regression line or by the method of moving averages, viz: 3-point, 4-point
+and 5-point moving averages. Use exponential smoothing techniques. Compute the seasonal indices in a time
+series and use these to deseasonalise the time series. Calculate a forecast for the value of the dependent variable
+and explain how reliable the forecast is.",Basic math literacy: substituion into a formula?,1,0,,Applied,Applied: Finance
+RU,STA 1S1,Statistics for Science,1,1,No,5,15,"• Numerical Descriptive Statistics:
+– Measures of Central Tendency: mean, median, mode;
+– Measures of Variability: variance, standard deviation, interquartile range.
+• Graphical Descriptive Statistics: Histograms, box-and-whisker plots, bar graphs.
+• Probability:
+– Rules of probability: basic properties of probability, addition and multiplication rules;
+– Independent and dependent events and probability calculations pertaining to these, including conditional
+probability;
+– Tool for calculating probability: contingency tables.
+• Probability Distribution(s):
+– Random variables and construction of discrete probability distributions. Particular discrete probability
+distributions and all calculations pertaining to these: Binomial, Poisson;
+– Particular continuous probability distributions and all calculations pertaining to these: Normal, Student t,
+chi-square and F.
+• Sampling and Estimation:
+– Distribution of the sample mean, including Central Limit Theorem;
+– Confidence intervals: single sample mean (large and small samples), difference between two means for
+independent and dependent populations, single proportion, difference between two proportions, variance
+(single sample and two samples);
+– Hypothesis Testing, including all the hypothesis tests corresponding to the confidence intervals already
+covered. Specific concepts covered include: null and alternative hypotheses, test statistics, rejection regions,
+p-value, power of the test, conclusions and decision making in light of conclusions.
+• Regression and Correlation:
+– Estimating the regression line: method of least squares;
+– Significance of the regression: testing the slope (confidence intervals and hypothesis test), ANOVA approach
+to regression;
+– Estimation from the regression line: interpolation and extrapolation, prediction including point estimates
+and confidence intervals for predicted y-values and the mean for particular values of x;
+– Correlation: calculations and interpretation, hypothesis testing;
+– Multiple regression techniques.
+• Design and analysis of questionnaires and categorical data analysis.
+• Non-parametric procedures.
+• Factorial design ANOVA procedures.","On completion of the course the students will, inter alia, be able to:
+• Collect, summarise and describe data using numerical and graphical techniques;
+• Explain the concepts of probability, how to interpret probabilities and how to do calculations involving probabilities;
+• Describe the most important probability distributions and how to apply them to statistical problems and analyses of data;
+• Perform tests of hypotheses for one- and two-sample analyses, draw conclusions and make decisions based on the outcome of such hypothesis tests;
+• Explain the difference between parametric and non-parametric test procedures;
+• Describe the concepts and use the methods of regression and correlation;
+• Use statistical tables;
+• Carry out multi-sample inference, in particular, how to interpret the results of various designs of analysis of variance;
+• Summarise categorical data using frequency tables and be able to analyse the data using chi-square tests;
+• Perform Sign, Kruskal-Wallis, Friedman, Spearman’s rank correlation and Wilcoxon non-parametric procedures; understand when and why they are used; how to calculate the relevant statistics;
+• Perform factorial ANOVA procedures; understand why and when to use factorial ANOVA; define the relevant hypothesis; how to calculate and compute the sums of squares; how to formulate a decision rule and make a conclusion; how to test the assumptions of the relevant model.
+• Design and layout questions for a questionnaire; understand sampling methodologies; perform the analysis of questionnaire type data using the Chi-squared, Fishers exact and McNemar methodologies;",Basic math literacy: substituion into a formula?,1,0,,Applied,Applied: Science
+RU,STA 1P1,Statistics for Pharmacy,1,1,No,5,15,"• Numerical Descriptive Statistics:
+– Measures of Central Tendency: mean, median, mode;
+– Measures of Variability: variance, standard deviation, interquartile range.
+• Graphical Descriptive Statistics: Histograms, box-and-whisker plots, bar graphs.
+• Probability:
+– Rules of probability: basic properties of probability, addition and multiplication rules;
+– Independent and dependent events and probability calculations pertaining to these, including conditional
+probability;
+– Tool for calculating probability: contingency tables.
+• Probability Distribution(s):
+– Random variables and construction of discrete probability distributions. Particular discrete probability
+distributions and all calculations pertaining to these: Binomial, Poisson;
+– Particular continuous probability distributions and all calculations pertaining to these: Normal, Student t,
+chi-square and F.
+• Sampling and Estimation:
+– Distribution of the sample mean, including Central Limit Theorem;
+– Confidence intervals: single sample mean (large and small samples), difference between two means for
+independent and dependent populations, single proportion, difference between two proportions, variance
+(single sample and two samples);
+– Hypothesis Testing, including all the hypothesis tests corresponding to the confidence intervals already
+covered. Specific concepts covered include: null and alternative hypotheses, test statistics, rejection regions,
+p-value, power of the test, conclusions and decision making in light of conclusions.
+• Regression and Correlation:
+– Estimating the regression line: method of least squares;
+– Significance of the regression: testing the slope (confidence intervals and hypothesis test), ANOVA approach
+to regression;
+– Estimation from the regression line: interpolation and extrapolation, prediction including point estimates
+and confidence intervals for predicted y-values and the mean for particular values of x;
+– Correlation: calculations and interpretation, hypothesis testing;
+– Multiple regression techniques.
+• Design and analysis of questionnaires and categorical data analysis.
+• Non-parametric procedures.
+• Factorial design ANOVA procedures.","On completion of the course the students will, inter alia, be able to:
+• Collect, summarise and describe data using numerical and graphical techniques;
+• Explain the concepts of probability, how to interpret probabilities and how to do calculations involving probabilities;
+• Describe the most important probability distributions and how to apply them to statistical problems and analyses of data;
+• Perform tests of hypotheses for one- and two-sample analyses, draw conclusions and make decisions based on the outcome of such hypothesis tests;
+• Explain the difference between parametric and non-parametric test procedures;
+• Describe the concepts and use the methods of regression and correlation;
+• Use statistical tables;
+• Carry out multi-sample inference, in particular, how to interpret the results of various designs of analysis of variance;
+• Summarise categorical data using frequency tables and be able to analyse the data using chi-square tests;
+• Perform Sign, Kruskal-Wallis, Friedman, Spearman’s rank correlation and Wilcoxon non-parametric procedures; understand when and why they are used; how to calculate the relevant statistics;
+• Perform factorial ANOVA procedures; understand why and when to use factorial ANOVA; define the relevant hypothesis; how to calculate and compute the sums of squares; how to formulate a decision rule and make a conclusion; how to test the assumptions of the relevant model.
+• Design and layout questions for a questionnaire; understand sampling methodologies; perform the analysis of questionnaire type data using the Chi-squared, Fishers exact and McNemar methodologies;",Basic math literacy: substituion into a formula?,1,0,,Applied,Aplied: Biostatistics
+RU,MST 102,Mathematical Statistics 102,1,2,No,5,15,"Combinatorial analysis: the basic counting principles; permutations and combinations.
+• Random phenomena: sample spaces and events; the probability axioms; the probability of an event; random
+selection; probability rules; conditional probability; law of total probability and the theorem of Bayes; stochastic
+independence.
+• Discrete stochastic variables: expected value; variance and moment generating function of a stochastic variable.
+• Important discrete distributions: binomial; Poisson, geometric; hypergeometric; negative binomial.
+• Joint probability mass functions; Marginal probability functions; Conditional discrete probability functions;
+Independent random variables.","On successful completion of this course, students will be able to:
+- Apply the basic counting principles (addition and multiplication rules) to determine the number of possible outcomes in a variety of contexts.          
+- Calculate permutations and combinations, with and without repetition, and apply them to practical problems.   
+- Define and describe sample spaces and events in the context of random phenomena. 
+-Use simulation methods to approximate probabilities, explore distributional properties, and support decision-making in complex probability problems.
+-Explain and apply the axioms of probability theory to define and evaluate probabilities for a variety of random phenomena, including the use of conditional probability and the law of total probability. 
+-Use probability rules, including the complement, addition, and multiplication rules, to solve problems. 
+-Apply the concepts of conditional probability, the law of total probability, and Bayes’ theorem to update probabilities based on new information.
+-Identify and verify stochastic independence between events.
+-Define discrete random variables, identify and derive their probability mass functions (PMFs).
+-Determine the expected value, variance, and moment generating function (MGF) of a discrete random variable.
+-Recognize, describe, and apply the properties of important discrete distributions: binomial, Poisson, geometric, hypergeometric, and negative binomial.  
+-Determine joint probability mass functions for two or more discrete random variables. 
+-Derive marginal and conditional probability functions from a joint PMF.
+-Assess and verify whether random variables are independent.
+-Use simulation methods to approximate probabilities, explore discrete distributional properties, and support decision-making in complex combanatorial problems.",0.8,0.2,,R,Mathematical,Probability Theory
+RU,MST 201,Mathematical Statistics 201,2,1,No,6,20,"• Axiomatic probability theory; conditional probabilities;
+• Random variables; standard univariate distributions;
+• Expected values and moments; moment generating functions;
+• Jointly distributed variates;
+• Distributions of functions of random variables;
+• A selection of topics from decision theory, risk theory and simulation.","On successful completion of this course, students will be able to:
+-Explain and apply the axioms of probability theory to define and evaluate probabilities for a variety of random phenomena, including the use of conditional probability and the law of total probability. 
+-Identify, describe, and compute probabilities associated with standard univariate continuous probability distributions.  
+-Calculate and interpret expected values, variances, higher moments, and moment generating functions for continuous random variables, and use these to characterise their distributions. 
+-Analyse jointly distributed random variables, determining joint, marginal, and conditional distributions, as well as covariance, correlation, and independence. 
+-Derive and apply the distributions of functions of random variables, using appropriate transformation techniques (e.g., change-of-variables, Jacobians, convolution). 
+-Use simulation methods to approximate probabilities, explore distributional properties, and support decision-making in complex probability problems.
+",0.9,0.1,0.1,R,Mathematical,Probability Theory
+RU,MST 202,Mathematical Statistics 202,2,2,No,6,20,"• Sampling distributions;
+• Point and interval estimation;
+• Tests of hypotheses;
+• Correlation and linear regression;
+• A selection of topics from design and analysis of questionnaires, time series analysis, econometrics and non-
+parametric methods.","On successful completion of the course, students will be able to: 
+-Explain and apply the concept of sampling distributions, including the distribution of sample means, proportions, and related statistics.
+-Construct, evaluate and interpret point estimates and confidence intervals for population parameters. 
+-Formulate and perform statistical hypothesis tests, interpret p-values, and make decisions in the context of real-world problems.
+- Compute and interpret correlation coefficients and fit, evaluate, and interpret simple linear regression models.
+-Critically assess the validity, assumptions, and limitations of these statistical methods and results.
+-Communicate statistical findings effectively in both technical and non-technical language.",0.8,0.1,0.1,R,Mathematical,Inferential Statistics
+RU,MST 311,Multivariate Distribution Theory,3,1,No,7,15,"Introductory linear algebra, multivariate distribution theory; multivariate normal distribution, multivariate normal sampling theory, the distribution of various quadratic forms","By the end of this course, students should be able to:
+-Apply fundamental concepts of linear algebra, including vector spaces, linear transformations, eigenvalues and eigenvectors and spectral decomposition, in the context of multivariate statistical analysis.
+-Describe and derive the properties of the multivariate probability distributions. 
+-Interpret the relationships between marginal, conditional, and joint distributions in multivariate contexts. 
+-Explain the definition and key properties of the multivariate normal distribution.
+-Derive and interpret the effects of linear transformations on multivariate normal random vectors.
+-Calculate and interpret the mean vector, covariance matrix, and correlation structure.
+-Derive and apply results for the sampling distribution of the sample mean vector and sample covariance matrix under multivariate normality. 
+-Explain the role of the Wishart distribution in multivariate inference.
+-Define quadratic forms in random variables and explain their relevance in statistical inference.
+-Determine the distribution of various quadratic forms under multivariate normal assumptions (e.g., Hotelling’s T2, likelihood ratio test statistics).
+-Apply theoretical results to real-world multivariate problems using R.
+-Interpret multivariate inference results in context and communicate findings clearly.
+
+",0.7,0.1,0.2,R,Mathematical,Probability Theory & Multivariate
+RU,MST 312,General Linear Models,3,1,No,7,15,The general linear model: estimation; inference; prediction; model adequacy and residual analysis; transformations and weightings to correct model inadequacies. An introduction to SAS. Applied regression analysis in SAS and R. ,"By the end of this course, students should be able to:
+-Explain the structure and assumptions of the general linear model. 
+-Derive and apply methods for parameter estimation, statistical inference, and prediction within the GLM framework. 
+-Assess model adequacy using residual analysis and diagnostic plots.   
+-Identify violations of model assumptions and propose appropriate corrective measures.  
+-Apply transformations of variables to address nonlinearity or non-constant variance.
+-Use weighting methods to correct model inadequacies.  
+-Implement GLM estimation, inference, and prediction in SAS and R.
+-Conduct applied regression analysis using SAS procedures and equivalent R functions. 
+-Interpret model parameters, diagnostics, and outputs from SAS and R in applied contexts. 
+-Present regression analysis findings clearly and accurately to both technical and non-technical audiences.",0.7,0.1,0.2,R & SAS,Mathematical,Inferential Statistics
+RU,MST 313,Stochastic Finance,3,2,No,7,15,"A selection of topics from stochastic processes and financial statistics; financial computations in R. 
+Interest Rates and Present Value Analysis; Brownian Motion and Geometric Brownian Motion; Pricing Contracts via Arbitrage; The Arbitrage Theorem; The Black–Scholes Formula; Pricing American Put Options; Valuing by Expected Utility","By the end of this course, students should be able to:
+- Explain and apply key concepts from stochastic processes and financial statistics, including interest rates, present value analysis, Brownian motion, geometric Brownian motion, arbitrage pricing, and option valuation.
+- Model and analyse stochastic processes used in finance by applying analytical solutions to stochastic differential equations, estimating model parameters, and using arbitrage-based pricing methods.
+- Evaluate the pricing and risk of derivative contracts using mathematical models, including the Black–Scholes formula, American put option pricing, and expected utility theory.
+- Implement financial computations in R, including modelling stochastic processes, pricing options, and reproducing theoretical models with real and simulated data.
+",0.8,0.2,0,,,Stochastic Processes
+RU,MST 314,Stationary Time Series Analysis,3,2,No,7,15, Stationary (ARMA) time series modelling and forecasting; time series analysis with ITSM2000 & R.,"By the end of this course, students should be able to:
+-Explain the properties of stationary time series and the theoretical foundations of ARMA models.
+-Identify and estimate appropriate ARMA models for real-world time series data.
+-Apply diagnostic tools to assess model adequacy and refine model selection.
+-Produce forecasts using ARMA models and evaluate their accuracy. 
+-Conduct time series analysis and forecasting using ITSM2000 and R.
+-Interpret and communicate results of time series analyses in a clear and context-appropriate manner. ",0.7,0.2,0.1,R & ITSM2000,,Time Series Analysis
+RU,AST 311,General Linear Models and Experimental Design,3,2,No,7,15,"Analysis of variance and experimental design; applications of the general linear model: polynomial regression models, dummy variables, multicollinearity, variable selection and model building,  validation of regression models and an introduction to nonlinear regression.","After successful completion of this module, students will be able to:
+• Explain the general linear model foundations, structure, and assumptions of one-, two-, and three-way factorial ANOVA, including corresponding multiple-comparison and likelihood-ratio testing procedures.
+• Derive sums-of-squares partitions, expected mean squares, and appropriate F-tests for fixed-effects designs, and extend these to random-effects cases where relevant.
+• Fit and interpret one-, two-, and three-way ANOVA models in R, including higher-order interactions, reporting results clearly and rigorously.
+• Diagnose assumption violations, implement suitable remedies, and compute and interpret effect sizes for main and interaction effects.
+• Critically evaluate the strengths and limitations of factorial ANOVA designs, including considerations of effect size, replication, and statistical power.
+• Be able to build and analyze models involving polynomial terms to fit curvilinear relationships.
+• Understand and implement the use of dummy or indicator variables to incorporate categorical factors and analyze their effects within regression models.
+• Detect the presence of multicollinearity among predictor variables, understand its consequences, and apply remedial measures like ridge regression.
+• Learn various strategies and automated procedures (e.g., stepwise, forward, backward selection) to select the best subset of variables for a parsimonious and effective model. Understand the importance of model validation and apply techniques to ensure the selected model is robust and generalizable to new data.
+• Differentiate between linear and nonlinear models and learn basic estimation and analysis techniques for intrinsically nonlinear functions.",0.2,0.4,0.4,R,Applied,Inferential Statistics
+RU,AST 312,Generalized Linear Models: Theory and Practice,3,2,No,7,15,"Generalized linear models and their application in R: visual display of these data, model fitting,","After successful completion of this module, students will be able to:
+• Critically evaluate the strengths and limitations of models for non-normal responses, for example logistic regression for binary data, Poisson regression for count data.
+• Formulate statistical models within the general linear model framework for continuous response variables.
+• Fit and interpret GLMs using statistical software, including estimation of parameters and assessment of model adequacy.
+• Compare nested and non-nested linear models using hypothesis tests and information criteria.",0.2,0.4,0.4,R,Applied,Inferential Statistics/Modelling
+UKZN,STAT130,Introduction to Statistics,1,0,No,7,16,"model checking and fit assessment, interpretation and reporting of the statistical results, limitations of these statistical","•	Students should be identify and apply the correct methods for organizing data, such as creating frequency distributions, histograms, and box plots.
+•	Students should be able to choose appropriate measures of central tendency (mean, median, mode) and dispersion (range, variance, standard deviation) to summarize data.
+•	Students should be able to use probability distributions (e.g., binomial, normal) to model and solve problems involving random events.
+•	Students should be able to identify the appropriate statistical test (e.g., t-test, chi-square test, ANOVA) for a given research question or dataset
+•	Students should be able to distinguish between nominal, ordinal, interval, and ratio variables
+•	Students should be able to identify examples of each type of variable from various fields (e.g., social sciences, natural sciences, economics).
+•	Students should be able to define probability distributions and understand how they describe the behaviour of variables and  distinguish the difference between discrete and continuous probability distributions.
+•	Students should be able to use histograms, bar charts, and pie charts to visualize the distribution of different types of variables
+•	Students should be able to Students should be able to define the null hypothesis (H₀) and the alternative hypothesis (H₁).
+•	Students should be able to select the appropriate test (e.g., t-test, chi-square test, ANOVA, z-test) based on the type of data and research question.
+•	Students should be able to calculate or identify the correct test statistic (e.g., t-statistic, z-statistic, F-statistic, χ² statistic) depending on the hypothesis test chosen
+•	 Students should be able to interpret whether to reject or fail to reject the null hypothesis based on the p-value and significance level and draw appropriate conclusions related to the research question.
+",0,1,0,Excel (no programming but we do teach and assess Excel),Applied,Probability Theory
+UKZN,STAT140,Statistical Methods,1,2,No,7,16,methods.,"•        Students should be able to distinguish between one-sample and two-sample hypothesis tests.
+•        Students should be able to recognize when to use a t-test versus a z-test based on sample size and population standard deviation.
+•        Students should be able to select the appropriate test statistic (e.g., t-statistic, z-statistic, chi-square statistic) based on the sample type, sample size, and distribution assumptions.
+•        Students should be able to interpret the p-value in the context of the hypothesis test and make a decision about rejecting or failing to reject the null hypothesis.
+•        Students should be able to define regression analysis and explain its purpose in examining relationships between variables.
+•        Students should be able to correctly identify the dependent variable (response variable) and the independent variable(s) (predictor variable(s)) in a given regression context.
+•        Students should be able to able to write the regression equation, specifically the least squares regression line.
+•        Students should be able to estimate the values of the regression coefficients (intercept and slope) using statistical software or calculations.
+•        Students should interpret the slope and intercept in the context of the problem (e.g., for each unit increase in the independent variable, how does the dependent variable change?).
+•        Students should be able to define parametric and non-parametric tests and understand the key differences (e.g., parametric tests assume the data follows a specific distribution, usually normal, while non-parametric tests do not make such assumptions). 
+•        Students should be able to recognize scenarios where the assumptions of parametric tests are not met and thus non-parametric tests are more appropriate.
+.
+",0,80,20,SAS,Applied,Hypothesis Testing
+UKZN,STAT222,Experimental Design and Analysis,2,2,No,7,16,"Analysis of single, two- & multi-sample problems, including z-tests, t-tests and ANOVA. 
+Experimental units. 
+Error reduction by blocking, including randomized complete blocks & Latin square designs. 
+Use of more than one square. 
+Split-plot, split-split-plot and split-block designs. 
+Factorial treatment structures. 
+Nested designs and design fitness diagnostics. 
+","•        Students should be able to implement one-way and two-way ANOVA in various contexts.
+•        Students should be able assess whether the group means are statistically different based on the ANOVA results (F-statistic, p-values).
+•        Students should be able to check ANOVA assumptions such as normality of residuals and homogeneity of variances to ensure valid conclusions.
+•        Students should be able to design and conduct experiments using RCBD to control for one nuisance factor by grouping experimental units into blocks.
+•        Students should be able to interpret the results of an RCBD analysis, including testing the null hypothesis that treatment effects do not differ across blocks.
+•        Students should be able to assess and interpret the significance of the block and treatment effects using ANOVA in the context of an RCBD.
+•        Students should be able to analyze data from a Latin Square Design using ANOVA, and interpret the significance of row, column, and treatment effects.
+•        Students should be able to design and structured  experiments when factors are applied at different levels (e.g., whole plot vs. subplots) and learning how to assign treatments accordingly.
+•        Students should be able to interpret the relationship between different hierarchical levels of experimental factors, such as factors that are applied to whole plots versus subplots, and how this impacts the design and analysis.
+•        Students should be able to explain the importance of randomization in hierarchical designs to reduce bias and account for variability. Learning how to model and interpret errors associated with different levels of experimental factors in a split-plot design.
+•        Students should be able to define full factorial designs and fractional factorial designs, and understand their purpose in analyzing multiple factors and their interactions in an experiment 
+•        Students should be able to design a full factorial experiment and fractional factorial experiment involving two or more factors and interpret the main effects and interaction effects between factors.
+•        Students should be able to analyze the results of a full factorial experiment using ANOVA and interpret the significance of main effects and interactions.
+",0,80,20,GenStat,Applied,Hypothesis Testing
+UKZN,STAT230,Probability Distributions,2,1,No,7,16,"Discrete probability distributions. 
+Hypergeometric, Binomial, Poisson, Negative Binomial, Continuous probability distributions. 
+Normal, Gamma family, Beta, t-distribution, F-distribution. 
+Transformation of random variables. 
+Moments and generating functions: probability-, moment- and factorial generating functions. 
+Bivariate distributions: marginal and conditional distributions, moments and correlation. 
+Bivariate Normal distribution. 
+","•        Students should be able to derive the expectation for both discrete and continuous random variables using the definition of expectation.
+•        Students should be able derive the variance of a random variable.
+•        Students should be able to explain the concept of the moment generating function (MGF) and how it is used to derive moments of a distribution.
+•        Students should be able to derive the expectation and variance of a discrete random variable using its PGF.
+•        Students should be able to calculate the marginal probability density functions (PDFs) for both variables in a bivariate distribution. 
+•        Students should be able to interpret the marginal distributions and explain how they describe the distribution of each variable independently.
+•        Students should be able to calculate conditional probability density functions for a bivariate distribution.
+•        Students should be able to calculate the first and second moments (mean, variance, covariance) of bivariate random variables.
+•        Students should be able to define multivariate distributions and explain how they extend the concepts of bivariate distributions to more than two random variables.
+•        Students should be able to define and explain the method of transformation of random variables, particularly in the context of transforming bivariate or multivariate distributions.
+•        Students should be able to determine the distribution of a single random variable from a joint distribution by applying an appropriate transformation method.
+",,,,,Applied,Probability Theory
+UKZN,STAT240,Statistical Inference,2,2,No,7,16,"Sampling distributions. 
+Point estimation: maximum likelihood, method of moments, ordinary least squares. 
+Properties of estimators. 
+Interval estimation: Hypothesis testing: likelihood ratio test, best critical regions, uniformly most powerful tests. 
+Least squares estimation and inference for the simple linear regression model. 
+Principles of Bayesian estimation. 
+","•        Students should be able to explain the concept of a sampling distribution and its importance in statistical inference.
+•        Students should be able to apply MLE to estimate parameters for common probability distributions (e.g., normal, exponential, Bernoulli).
+•        Students should be able to compare the method of moments with MLE in terms of ease of use, efficiency, and suitability for different problems.
+•        Students should be able to calculate the estimators for regression coefficients (intercept and slope) and interpret their meaning in the context of the regression model.
+•        Students should be able identify and describe the key properties of estimators: unbiasedness, efficiency, consistency, and sufficiency.
+•        Students should be able to calculate and verify if an estimator is unbiased by showing that its expected value equals the true parameter value.
+•        Students should be able to compare the efficiency of two or more estimators by examining their variances and identifying which estimator has the smallest variance.
+•        Students should be able to determine whether an estimator is consistent using the formal definition, and apply consistency in different estimation scenarios (e.g., sample mean, sample variance).
+•        Students should be able to define factorization theorem for sufficiency and apply it to check if an estimator is sufficient for a given distribution.
+•        Students should be able to define Gauss-Markov theorem, which establishes that under certain conditions, the OLS estimator is the best linear unbiased estimator (BLUE).
+",,,,,Applied,Inferential Statistics
+UKZN,STAT243,Data Mining using Machine Learning,2,1,No,7,16,"Processes of data mining: data selection, cleaning and coding.
+Use of statistical pattern recognition and machine learning techniques.
+Reporting and visualising generated structures. 
+Prepare and explore data for analytical model development. 
+Create and select features for predictive modelling. 
+Develop a series of supervised learning models based on different techniques such as decision tree, ensemble of trees, neural networks, and support vector machines. 
+Build segments for business applications. 
+","•        Students should be able prepare and explore data for analytical model development by applying techniques such as data selection, data cleaning, data transformation, and feature engineering.
+•        Students should be able apply coding techniques to transform categorical variables into numerical formats suitable for modelling.
+•        Students should be able to explore datasets through visualization and descriptive statistics to identify patterns and gain insights for model development.
+•        Students should be able to apply statistical pattern recognition and machine learning techniques to extract meaningful structures and insights from complex datasets.
+•        Students should be able to apply various machine learning algorithms and statistical methods (e.g., clustering, classification, regression) to identify patterns in the data.
+•        Students should be able to assess and interpret the results of these models to inform business decisions and optimize processes.
+•        Students should be able to implement and fine-tune decision trees and ensemble models, understanding their advantages and limitations in predictive tasks.
+•        Students should be able to train, and evaluate neural networks and support vector machines for complex prediction tasks.
+•        Students should be able to use performance metrics such as accuracy, precision, recall, F1-score, and ROC-AUC to assess model quality.
+•        Students should be able to visualize the results of data mining and machine learning models through clear charts, graphs, and dashboards that communicate insights to stakeholders.
+•        Students should be able to present findings in a coherent and actionable format, providing recommendations based on model outputs.
+•        Students should be able to use business intelligence tools to deliver interactive visualizations that facilitate decision-making and strategy development
+",0,90,10,R,Applied,Machine Learning
+UKZN,STAT301,Linear Models,3,1,No,7,16,"Topics from linear algebra. 
+The Gauss-Markov Theorem. 
+The general linear model of full rank and less than full rank. 
+Regression analysis. 
+Analysis of variance and covariance. 
+","•        Students should be able clearly articulate the key assumptions underlying the Gauss-Markov theorem, including linearity, the independence of errors, homoscedasticity (constant variance of errors), and the absence of perfect multicollinearity in the regression model.
+•        Students should be able to explain the concept of BLUE and how the Gauss-Markov theorem guarantees that under the specified assumptions, the ordinary least squares (OLS) estimators are the best (i.e., they have the smallest variance) among all linear and unbiased estimators.
+•        Students should be able to apply the Gauss-Markov theorem to real-world regression problems, demonstrating how the conditions influence the choice and performance of estimators, and explaining how violations of the assumptions (such as heteroscedasticity or autocorrelation) can affect the validity of the OLS estimators.
+•        Students should be able to define what constitutes a multivariate random variable, understand its components (i.e., vector of random variables), and explain the concept of joint distributions, marginal distributions, and conditional distributions in the context of multiple variables.
+•        Students should be able to describe the characteristics of the multivariate normal distribution, including the role of the mean vector and covariance matrix, and demonstrate how to calculate probabilities and make inferences based on multivariate normal distributions.
+•        Students should be able to solve problems involving covariance and correlation of multivariate random variables.
+•        Students should be able to derive and interpret the general linear model, including its components 
+•        Students should be able to derive the properties of the general linear model.
+•        Students should be able to express linear regression models in matrix form, including the formulation of the design matrix, coefficient vector, and response vector.
+•        Students should be able to conduct an ANOVA test to evaluate whether there are statistically significant differences in the means of two or more groups.
+•        Students should be able to perform and interpret ANCOVA to assess the impact of one or more categorical independent variables on a continuous dependent variable while controlling for the effects of one or more continuous covariates.
+",0.6,0.3,0.1,SAS and R,Applied,Regression
+UKZN,STAT305,Biostatistics Methods,3,2,No,7,16,"Introduction to epidemiology. 
+Sample size and power of test. 
+Standardisation of mortality rates, morbidity studies and clustering of diseases. 
+Clinical trials. 
+Cohort studies.
+ Inference of r x c contingency tables, Logistic regression. 
+Survival analysis. 
+","•        Students should be able to i define and explain key terms related to categorical data analysis, such as ""contingency table,"" ""chi-square test,"" ""odds ratio,"" ""relative risk,"" and ""prevalence,"" and understand how these terms are used in analyzing relationships between categorical variables.
+•        Students should be able to describe and differentiate between essential epidemiologic terms, including ""incidence,"" ""prevalence,"" ""cohort studies,"" ""case-control studies,"" and ""confounding,"" and explain how these terms are used to assess and interpret health outcomes and disease patterns in populations.
+•        Students should be able to clearly describe the structure of cohort and case-control studies, including how participants are selected, the identification of exposure and outcome variables, and the differences in data collection methods between the two types of studies. 
+•        Students should be able to analyze and interpret the results from both cohort and case-control studies, including calculating and interpreting measures of association such as relative risk (RR) for cohort studies and odds ratios (OR) for case-control studies 
+•        Students should be able to assess potential biases and confounding factors in the study design.
+•        Students should be able calculate specific mortality rates, including age-specific mortality rates, sex-specific mortality rates, and cause-specific mortality rates, using the appropriate formulas and demographic data.
+•        Students should be able to calculate age-standardized death rates using direct or indirect standardization methods and interpret these rates to compare mortality across different populations or time periods while controlling for differences in population structure.
+",0.1,0.6,0.3,SAS,Applied,Applied: Survival Analysis
+UKZN,STAT350,Random Processes,3,1,No,7,16,"Broad classification of stochastic processes.
+Markov chains. 
+Birth and death processes. 
+Queueing theory. 
+The Poisson process. 
+Conditional expectations and martingales. 
+Branching processes. 
+Renewal theory. 
+Time series. Loss distributions and risk models. 
+","•        Students should be able to identify and explain key properties of Markov chains.
+•        Students should be able to solve problems to find steady-state probabilities and expected values for given Markov chains.
+•        Students should be able to apply Markov chain models to analyse real-life problems.
+•        Students should be able to explain and apply the memoryless property of the Poisson process and derive probabilities of inter-event times.
+•        Students should be able to model and solve birth and death processes for real-world scenarios, such as population growth or queuing systems.
+•        Students should be able to apply branching processes to practical problems.
+•        Students should be able to derive and interpret metrics such as expected waiting time and queue lengths.
+•        Students should be able to calculate renewal functions and intervals in appropriate contexts.
+•        Students should be able to explain how queuing and renewal models are applied to optimize systems like customer service or resource allocation.
+•        Students should be able to explain the components of time series data.
+•        Students should be able to analyse and interpret autocorrelation and partial autocorrelation functions.
+•        Students should be able to apply appropriate time series models and evaluate model performance.
+",,,,,Applied,Stochastic Processes
+UKZN,STAT370,Engineering Statistics,3,1,No,8,16,"Elementary probability, standard distributions, bivariate distributions. 
+Estimation of parameters and testing of hypotheses. 
+Regression analysis. 
+","•        Students should be identify and apply the correct methods for organizing data, such as creating frequency distributions, histograms, and box plots.
+•        Students should be able to choose appropriate measures of central tendency (mean, median, mode) and dispersion (range, variance, standard deviation) to summarize data.
+•        Students should be able to use probability distributions (e.g., binomial, normal) to model and solve problems involving random events.
+•        Students should be able to identify the appropriate statistical test (e.g., t-test, chi-square test, ANOVA) for a given research question or dataset
+•        Students should be able to distinguish between nominal, ordinal, interval, and ratio variables
+•        Students should be able to identify examples of each type of variable from various fields (e.g., social sciences, natural sciences, economics).
+•        Students should be able to define probability distributions and understand how they describe the behaviour of variables and  distinguish the difference between discrete and continuous probability distributions.
+•        Students should be able to use histograms, bar charts, and pie charts to visualize the distribution of different types of variables
+•        Students should be able to Students should be able to define the null hypothesis (H₀) and the alternative hypothesis (H₁).
+•        Students should be able to select the appropriate test (e.g., t-test, chi-square test, ANOVA, z-test) based on the type of data and research question.
+•        Students should be able to calculate or identify the correct test statistic (e.g., t-statistic, z-statistic, F-statistic, χ² statistic) depending on the hypothesis test chosen
+•         Students should be able to interpret whether to reject or fail to reject the null hypothesis based on the p-value and significance level and draw appropriate conclusions related to the research question.
+",0,100,0,NA,Applied,Applied: Mathematical
+UKZN,STAT395,Applied Probability Models,3,2,No,7,16,"Bayesian statistics concepts.
+Probability Sampling techniques for estimating means, totals and proportions.
+Sampling procedures: Simple random sampling, stratified sampling, cluster sampling, systematic sampling, PPS sampling. 
+Resampling techniques: bootstrap, jackknife. 
+Nonparametric methods. 
+","•        Students should be able to explain the key principles of each sampling method. 
+•        Students should be able to identify appropriate sampling methods for given scenarios and justify their choice.
+•        Students should be able to analyse the benefits and limitations of different sampling techniques in specific applications.
+•        Students should be able to derive and explain theoretical formulas and calculations related to Bayesian statistics, bootstrap, jackknife, and non-parametric methods.
+•        Students should be able to link theory to practice by correctly applying methods to real or simulated datasets.
+•        Students should be able to critically evaluate the assumptions and conditions under which each method is applicable.
+•        Students should be able to correctly code sampling and re-sampling methods in statistical software (SAS).
+•        Students should be able to produce accurate outputs and appropriately interpret results from implemented methods.
+",0.2,0.6,0.2,SAS,Applied,Probability Theory
+UL,SSTS011,Introduction to Statistics,1,1,No,5,12,"Definitions and Concepts. Sources and Types of Data. Organizing and Summarizing Data; Descriptive Statistics.              
+Elementary Probability Theory. Counting Techniques: Permutations and Combinations.
+Random Variables and Probability Distributions: Bernoulli, Binomial, Poisson and Normal Distributions.",,,,,,Mathematical,Probability Theory
+UL,SSTS012,Introduction to Statistical Inference,1,2,No,5,12,"Sampling Distributions: t, F and Chi-square distributions. Central Limit Theorem. Estimation: point and interval             
+Confidence Interval for the mean, proportion and variance. Test of hypotheses: Tests for the mean, proportion, and variance.
+Inferences about differences in two means and two proportions; One way ANOVA. Chi-square test. Simple Linear Regression and Correlation. Time series analysis. Index numbers.",,,,,,Mathematical,Inferential Statistics
+UL,SSTS021,Theory of Distributions,2,1,No,6,20,"Basic Probabilit Concepts. Theory of discrete and continuous probability distributions. Expected value and MGF. Special Discrete and continuous probability dsitibutions:          
+Bernoulli, Binomial, Hypergeometric, Geometric, Poisson and Negative Binomial, Uniform, Gamma, Exponential, Weibull, Pareto and Normal distributions.Theory of multivaraite discrete and continuous distributions, marginal and conditional distributions.
+Covariance and correlation. Theory of conditional expecttation amd conditional variance. Distributions of random functions: distribution function, transfromation and MGF techniques.",,,,,,Mathematical,Probability Theory
+UL,SSTS022,Statistical Inference,2,2,No,6,20,"Basic Probabilit Concepts. Theory of discrete and continuous probability distributions. Expected value and MGF. Special Discrete and continuous probability dsitibutions:          
+Bernoulli, Binomial, Hypergeometric, Geometric, Poisson and Negative Binomial, Uniform, Gamma, Exponential, Weibull, Pareto and Normal distributions.Theory of multivaraite discrete and continuous distributions, marginal and conditional distributions.
+Covariance and correlation. Theory of conditional expecttation amd conditional variance. Distributions of random functions: distribution function, transfromation and MGF techniques.",,,,,,Mathematical,Inferential Statistics
+UL,SSTA031,Time Series Analysis,3,1,No,7,16,"Basic Probabilit Concepts. Theory of discrete and continuous probability distributions. Expected value and MGF. Special Discrete and continuous probability dsitibutions:          
+Bernoulli, Binomial, Hypergeometric, Geometric, Poisson and Negative Binomial, Uniform, Gamma, Exponential, Weibull, Pareto and Normal distributions.Theory of multivaraite discrete and continuous distributions, marginal and conditional distributions.
+Covariance and correlation. Theory of conditional expecttation amd conditional variance. Distributions of random functions: distribution function, transfromation and MGF techniques.",,,,,,Mathematical,Time Series Analysis
+UL,SSTB031,Applied Linear Regression ,3,1,No,7,16,"Basic Probabilit Concepts. Theory of discrete and continuous probability distributions. Expected value and MGF. Special Discrete and continuous probability dsitibutions:          
+Bernoulli, Binomial, Hypergeometric, Geometric, Poisson and Negative Binomial, Uniform, Gamma, Exponential, Weibull, Pareto and Normal distributions.Theory of multivaraite discrete and continuous distributions, marginal and conditional distributions.
+Covariance and correlation. Theory of conditional expecttation amd conditional variance. Distributions of random functions: distribution function, transfromation and MGF techniques.",,,,,,Applied,Regression
+UL,SSTA032,Design and Analysis of Experiments,3,2,No,7,16,"Basic Probabilit Concepts. Theory of discrete and continuous probability distributions. Expected value and MGF. Special Discrete and continuous probability dsitibutions:          
+Bernoulli, Binomial, Hypergeometric, Geometric, Poisson and Negative Binomial, Uniform, Gamma, Exponential, Weibull, Pareto and Normal distributions.Theory of multivaraite discrete and continuous distributions, marginal and conditional distributions.
+Covariance and correlation. Theory of conditional expecttation amd conditional variance. Distributions of random functions: distribution function, transfromation and MGF techniques.",,,,,,Mathematical,Probability Theory
+UL,SSTB032,Sampling Theory,3,2,No,7,16,"Basic Probabilit Concepts. Theory of discrete and continuous probability distributions. Expected value and MGF. Special Discrete and continuous probability dsitibutions:          
+Bernoulli, Binomial, Hypergeometric, Geometric, Poisson and Negative Binomial, Uniform, Gamma, Exponential, Weibull, Pareto and Normal distributions.Theory of multivaraite discrete and continuous distributions, marginal and conditional distributions.
+Covariance and correlation. Theory of conditional expecttation amd conditional variance. Distributions of random functions: distribution function, transfromation and MGF techniques.",,,,,,Mathematical,Probability Theory
+Mandela,STAS101,Probability & Dist Theory,1,1,No,5,15,,,,,0.05,R,Mathematical,Probability Theory
+Mandela,STAS102,Introduction to Statistical Inference,1,2,No,5,15,,,,,0.2,R,Mathematical,Inferential Statistics
+Mandela,STAS201,Theory of Distributions,2,1,No,6,20,,,,,0.1,R,Mathematical,Probability Theory
+Mandela,STAS202,Regression Analysis and Advanced regression topics,2,2,No,6,20,,,0.2,0.8,0.3,R,Applied,Regression
+Mandela,STAT311,,3,1,No,7,30,,,,,,R,Mathematical,?
+Mandela,STAT312,,3,2,No,7,30,,,0.5,0.5,0.5,R,Applied,?
+SU,56820 - 114,Probability Theory and Statistics,1,1,,,16,"Combinatorial analysis; the basic counting principles; permutations and combinations. Random phenomena;
+sample spaces and events; the probability axioms; the probability of an event; random selection; probability
+rules; conditional probability; the rule of Bayes; stochastic independence. Discrete and continuous stochastic
+variables; expected value and variance of a stochastic variable; important discrete distributions: binomial,
+Poisson, geometric, hypergeometric, negative binomial; important continuous distributions, uniform, normal",,,,,,Mathematical,Probability Theory
+SU,19658 - 214,Applied Statistics,2,1,,,16,"Descriptive statistics: Various data types; frequency distributions; contingency tables; graphical representation
+of different data types; measures of location and spread; box-and-whisker plot.
+Discrete stochastic variables and probability distributions: Expected value, variance and standard deviation of a
+discrete stochastic variable; correlation between discrete stochastic variables; joint, marginal and conditional
+distributions; distribution of the sum of variables; binomial and Poisson distributions.
+Continuous stochastic variables and probability distributions: Expected value, variance and standard deviation
+of a continuous stochastic variable.
+Distributions: Uniform, normal, exponential, gamma, t, F, chi square and beta.
+Sampling distributions: The central limit theorem; sampling distributions of one mean; one proportion and one
+variance; sampling distributions of the difference between two means and the difference between two
+proportions; sampling distributions of the ratio of two variances.
+Inferential statistics: Interval estimation and hypothesis testing for one mean, one proportion and one
+variance; Interval estimation and hypothesis testing for the difference between two means, the difference
+between two proportions and the ratio of two variances; concept and calculation of p values in above cases;
+determining sample sizes; calculation of power and the effect of sample size on it.
+Categorical data analysis: Hypothesis testing for the difference between two or more proportions; tests for
+independence; the goodness of fit test.",,,,,Excel,Applied,Probability Theory
+SU,19658 - 224,Statistical Theory and Practice,2,1,,,16,"Handling data sets: Data vectors and data matrices; different types of data and its influence on the choice of
+applicable statistical techniques; manipulations with data vectors and data matrices; calculating simple
+statistical measures with the use of vectors and matrices; the R programming language; importing data into
+R; vector and matrix operations in R to calculate statistical measures; determinant and eigenvalues of a
+square matrix with applications in statistics.
+Moment generating functions and their applications: Moments of a random variable; calculation and
+interpretation of discrete and continuous moments with summation and integration; the exponential function
+and some of its basic properties; the moment generating function; moment generating functions of important
+distributions; obtaining moments from moment generating functions using differentiation and a series
+expansion; graphical displays of probability distributions in R (the denstrip package).
+Transformations: The logarithmic and square root transformations and their usage and effect in the analysis
+of data.
+Optimisation in statistics: Obtaining the maximum and minimum of a function of a single variable using
+differentiation; the least squares method; the maximum likelihood method (in general); Lagrange multipliers.
+Transformations: The logarithmic and square root transformations and their usage and effect in the analysis
+of data.",,,,,R ,Applied,Software Application
+SU,19658 - 244,Statistical Inference,2,2,,,16,"Sampling techniques: Simple random sampling; stratified sampling; systematic sampling; cluster sampling;
+probability proportional to size sampling.
+Properties of estimators: Unbiasedness; efficiency; consistency; sufficiency; robustness.
+Estimation methods: Maximum likelihood and optimisation of linear models.
+Simple linear regression analysis: The simple linear regression model; method of least squares estimation;
+Inference on the model parameters and the correlation coefficient; residual analysis; prediction intervals and
+confidence intervals.
+Multiple linear regression analysis: The multiple linear regression model; residual analysis; inference on the
+parameters of the model; regression models with dummy variables and interaction terms; polynomial
+regression; transformations; collinearity; variable selection.
+Linear models for classification: Methods of estimation; inference on the model parameters; evaluation of
+model performance; prediction intervals and confidence intervals.
+Analysis of variance: One- and two-factor ANOVA; multiple comparisons testing.
+Non-parametric techniques for analysis of variance: Wilcoxon’s rank sum test; the sign test; Wilcoxon’s
+signed-rank test; Kruskal-Wallis test.",,,,,"R, Excel",Mathematical,Inferential Statistics
+SU,19658 - 318,Linear and Econometric Models,3,1,,,24,"Regression analysis: The multiple linear regression model. Maximum likelihood estimators; residual analysis;
+outliers and influential observations; unequal variances; multicollinearity; power transformations; variable
+selection; weighted least squares; logistic regression; ridge regression; robust regression; principal
+component regression; dummy variables and ANOVA; log-linear model; econometric models.
+Multivariate methods: Presentation of multivariate data; the multivariate normal distribution; tests for
+normality; hypothesis testing for one and two population mean vectors; confidence regions and
+simultaneous confidence intervals; multivariate control charts; multivariate analysis of variance; linear
+discriminant analysis; The use of the software R, STATISTICA and SAS to apply regression analysis and
+multivariate methods to datasets.",,,,,"R, STATISTICA, SAS",Applied,Regression
+SU,19658 - 348,Statistical Practice,3,2,,,24,"Probability theory: Discrete probability distributions (the binomial, geometric, negative binomial,
+hypergeometric and Poisson distributions); moments and moment generating functions; continuous
+probability distributions (the normal, gamma and beta distributions); functions of random variables (the
+method of transformations, the method of moment generating functions, and order statistics).
+Advanced statistical inference: Properties of estimators (unbiasedness, efficiency, consistency, sufficiency,
+robustness); method-of-moments estimation; maximum likelihood estimation; likelihood ratio tests.
+Time series analysis: Time series decomposition methods; single exponential smoothing; Holt’s method; Holt-
+Winter’s method; multiple regression in time series analysis; Box-Jenkins methodology for ARIMA models; 
+Stochastic simulation: Generating random numbers from different distributions using R; inverse transform
+method; acceptance-rejection method; practical applications of simulation using R.
+Bayesian inference: Bayes’ theorem; Bayesian priors, posteriors and estimators; Bayesian credibility intervals;
+Bayes hypothesis testing.",,,,,"R, STATISTICA",Applied,Software Application
+SU,65250 - 441,Stochastic Simulation,4,2,,,12,"The module is concerned with the study of the theory and applications of important probability models and
+stochastic processes and their application to simulation. The simulation of random variables from wellknown
+distributions using techniques in mathematical statistics is followed by applications thereof. These are
+studied theoretically/analytically and are then illustrated by means of computer-based simulation. In
+particular, the following topics are studied: methods for generating random variables from statistical
+distributions, Monte Carlo integration, Markov chains and Markov chain Monte Carlo methods (including
+applications to Metropolis-Hastings and Gibbs sampling methods), homogeneous and non-homogeneous
+Poisson processes and variance reduction techniques for Monte Carlo integration.",,,,,,Applied,Software Application
+SU,14309 - 441,Time Series Analysis,4,2,,,12,"Data observed sequentially over time are very common. In time series analysis, the stochastic method that
+gives rise to an observed series is modelled and then used to forecast future values. This module is a
+continuation of previous time series coursework and concentrates on more advanced time series techniques.",,,,,,Mathematical,Time Series Analysis
+SU,22853 - 214,Distribution Theory and Introduction to Statistical Inference,2,1,,,16,"Continuous stochastic variables; expected value and variance of a continuous stochastic variable; important
+continuous distributions; uniform, normal, exponential, gamma, beta. Moments and moment generating
+functions for discrete and continuous distributions. Bivariate probability distributions; marginal and
+conditional distributions; the multinomial and bivariate normal distribution; determining the distribution of
+functions of variables. The central limit theorem (without proof). Samples and sampling distributions: the
+standard parametric cases. Interval estimation and hypothesis testing: applying these principles in the
+standard cases of parametric inference. Data representation and description, calculating and interpreting
+sample measures.",,,,,,Mathematical,Probability Theory
+SU,22853 - 245,Statistical Inference,2,2,,,8,"Introduction to statistical inference. Principles of point estimation: efficiency, minimum variance unbiased
+estimators, consistency. Method of moments estimators. Maximum likelihood estimators. The Neyman-
+Pearson lemma: proof and applications. Likelihood ratio tests. Parametric estimation theory and hypothesis
+testing. Bayesian inferential statistics.",,,,,,Mathematical,Inferential Statistics
+SU,22853 - 246,Linear Models in Statistics,2,2,,,8,"Advanced matrix algebra. Stochastic vectors and matrices. The multivariate normal distribution. Maximum
+likelihood estimation of parameters in the multivariate normal distribution. Distributions of quadratic forms.
+The simple linear regression model. The method of least squares. Inference in the simple linear regression
+model. Introduction to R software.",,,,,,Mathematical,Hybrid: Multivariate Statistics & Regression
+SU,22853 - 312,Statistical Inference and Probability Theory,3,1,,,16,"Advanced distribution theory, sequences of random variables, limit theory for sequences, generating
+functions, sampling distributions and approximations. Sufficiency. Different approaches to inference.
+Goodness-of-fit methods. Bayes inference: Decision theory and Bayes risk using loss functions, Bayesian
+belief networks and Bayesian classification. Markov Chain Monte Carlo simulation techniques: Gibbs
+sampling and Metropolis-Hasting algorithms.",,,,,,Mathematical,Probability Theory
+SU,22853 - 316,Regression and Predictive Modelling,3,1,,,16,"Fitting regression models by means of matrices. The multiple linear regression model. Inference in the
+multiple linear regression model. Residual analysis. Variable selection techniques. Ridge regression. Lasso
+regression. Linear methods for classification. The use of R software to fit models in practice.",,,,,,Mathematical,Regression
+SU,22853 - 344,Stochastic Processes and Statistical Learning,3,2,,,16,"Introduction to stochastic processes. Markov processes and their applications. Introduction to martingale
+theory and applications. Introduction to statistical learning.",,,,,,Mathematical,Stochastic Processes
+SU,22853 - 364,Time Series,3,2,,,16,"Stationarity, filters for time series, autoregressive, moving average, autoregressive moving average and
+autoregressive integrated moving average time series, shift operators for time series, model identification
+and estimation and diagnostic testing of time series, non-stationarity of time series. Applications of time
+series.",,,,,,Mathematical,Time Series Analysis
+SU,14373 - 441,Multivariate Statistical Analysis A,4,2,,,16,"The objective of the module is to teach you the theoretical basis and practical application of multivariate
+statistics. Various aspects of multivariate statistics are discussed. You will learn mathematical theory
+supporting multivariate statistics, and the application of these statistics. The consequences of the
+assumptions made on multivariate statistics are also considered. In particular, the following topics are
+studied: the characterisation and display of multivariate data; matrix algebra and random vectors; the
+multivariate normal distribution; inferences about the multivariate population mean vector.",,,,,,Mathematical,Multivariate Statistics
+SU,14374 - 441,Multivariate Statistical Analysis B,4,2,,,16,"The objective of the module is to provide you with the expertise to confidently come to the right conclusions
+when analysing multivariate data. You will study the theory and applications of the following multivariate
+statistical techniques: multivariate analysis of variance (MANOVA), multivariate multiple regression analysis,
+principal component analysis, factor analysis, canonical correlation analysis, discriminant and classification
+analysis, cluster analysis, distance and ordination methods.",,,,,"SAS, R",Mathematical,Multivariate Statistics
+SU,54690 - 252,Financial Mathematical Statistics,2,2,,,6,"Analyses of financial returns, Principal components, Risk factor sensitivities and cash flow mapping.
+Introduction to programming.",,,,,,Applied,Applied: Finance
+SU,54690 - 314,Financial Mathematical Statistics,3,1,,,24,"Binomial trees; statistical modelling of stock prices, mathematical statistical derivation of Black-Scholes
+model and its applications; options on stock indices, currencies and futures; Greek letters; value at risk;
+numerical procedures to value derivatives; exotic options.",,,,,,Applied,Applied: Finance
+SU,10394 - 441,Bayesian Statistics,4,2,,,16,"For this course, the objective is to offer a Bayesian approach to statistical modelling. The basic principles of
+Bayesian statistics will be introduced as well as the use of Monte Carlo methods to estimate posterior
+distributions and their associated quantities. Several statistical learning topics on both regression and
+classification (including logistic regression, naive classification, linear regression, model selection and
+variable selection techniques such as ridge and lasso) will be approached from a Bayesian perspective and
+compared with their frequentist counterparts. The course will thereby aim to illustrate some of the benefits
+of the Bayesian approach.",,,,,,Mathematical,Bayesian Statistics
+SU,20710 - 483,Applied Markov Processes,4,0,,,16,"This module gives an introduction to Markov processes, focusing on their application for modelling
+dynamical systems perturbed by noise or manmade systems in which randomness or uncertainties play an
+important role. The theory covers Markov chains in discrete and continuous time, random walks, Brownian
+motion, stochastic differential equations, and stochastic calculus. Applications include population dynamics,
+queues, particle systems, diffusions, noise-perturbed dynamical systems, stochastic control, and finance.
+The module also has tutorials on simulation methods (in MATLAB or Python).",,,,,MATLAB or Python,Applied,Stochastic Processes
+SU,14289 - 441,Introduction to Statistical Learning,4,2,,,12,"Objectives and content: Statistical Learning is a collective noun for a variety of techniques that can be used
+to identify, describe, and model patterns and trends in data sets. Some of these techniques are well
+established in traditional statistics, for example regression analysis and discriminant analysis, while others
+have become feasible because of the ready availability of computing power. Examples of the latter are
+support vector machines, neural networks, and recommender systems, all of which are discussed in the
+module. The module strikes a balance between a study of these and other specific methods on the one hand
+and the underlying fundamentals on the other. Regularisation, optimisation, and the curse-of-dimensionality
+and ways of combatting it, are important concepts that are emphasised throughout the module.",,,,,,Mathematical,Probability Theory
+UP,STK 110,,,,,,,,,,,,,,
+UP,STK 120,,,,,,,,,,,,,,
+UP,STC 122,,,,,,,,,,,,,,
+UP,STK 210,,,,,,,,,,,,,,
+WS,STA 15 W1,"Descriptive Statistics, Probability, and Distribution Theory I",1,1,No,5,16,"Identify measurement scales; Understand and use basic sampling techniques; Summarize data in the form of tables, graphs, and diagrams; Calculate various measures of description of data; Understand basic measures of calculating probabilities; Basic probability concepts; Discrete probability distributions; Normal distribution; ",,,,,,Applied,
+,STA 15 W2,Statistical Inference I,1,2,No,5,16,Sampling Distributions and Inference Principles; Confidence Interval Estimation;  Hypothesis Testing (Single Population); Hypothesis Testing (Two Populations); Chi-Square Procedures for Categorical Data; Analysis of Variance (ANOVA); Simple Linear Regression and Correlation; Non-Parametric Statistical Techniques. ,,,,,,Applied,
+,STA 26 W1,Probability and Distribution Theory II,2,1,No,6,16,"Probability; Conditional probability;  Binomial coefficients; Counting; Random variables and distribution functions; Mathematical expectation; Moments of random variables and inequalities; Moment generating functions; Discrete univariate probability distributions and continuous univariate probability distributions; Conditional distributions; Bivariate distributions;  Bivariate Normal distribution; Conditional distributions and independence; Functions of random variables and their applications; Introduction to order statistics; Transformation of random variables; Knowledge of R: Factorials, Combinations, Permutations, Probability calculations, Using excel to calculate probabilities, moments and do counting, data processing, Reading and interpreting computer output",,,,,,Applied,
+,STA 26 W2,Statistical Inference II,2,2,No,6,16,"Sampling distributions: theory and simulations, Weak and Strong Laws of Large numbers, Central Limit Theorem, Sampling distributions of samples from the normal distribution (Chi-square, t and F-distributions derivations), Order Statistics, Statistical Inference concepts (Sufficient statistics, Exponential family of distributions, Likelihood, Sample Information), Point Estimation (Bias, Mean Square Error, Consistency, Efficiency, Minimum Variance estimation, Cramer-Rao lower bound), Rao-Blackwell theorem, Estimation methods, Properties of Maximum Likelihood estimators, Interval Estimation (Pivotal method, Confidence interval for quantiles), Hypothesis testing (Power function, Level of significance, Randomized tests, Unbiased and consistent tests, Power - Neyman-Pearson theorem, Most Powerful tests), Likelihood Ratio tests, Asymptotic distributions based on Likelihood Ratios. Knowledge of R: Sampling distributions, Estimation, Power calculations, Most powerful tests, Excel data processing skills",,,,,,Applied,
+,STA 37 W1,Linear Models and Multivariate Analysis,3,1,No,7,16,Multivariate Distributions; Multivariate Hypothesis Testing; Multivariate Analysis of Variance; Discriminant Analysis; Dimension Reduction Techniques; Correspondence Analysis; Linear Regression Modelling; Regression Diagnostics; Generalised Least Squares; Variable Selection; Computational Implementation. ,,,,,R,Applied,
+,STA 37 W2,Time Series and Stochastic Processes,3,2,No,7,16,Introduction To Time Series; Time Series Operators; Stationary Time Series; Non-Stationary; Time Series Models; Parameter Estimation; Forecasting.,,,,,R,Applied,
+,STT 37 W2,Sampling Theory and Methods,3,2,No,7,16,Introduction to Sampling Theory and Methods; Simple Random Sampling; Sampling for Proportions and Percentages; Stratified Sampling; Ratio and Product Methods of Estimation; Regression Method of Estimation,,,,,R,Applied,
+,,,,,,,,,,,,,R,Applied,
